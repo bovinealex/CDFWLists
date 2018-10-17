@@ -1,0 +1,3621 @@
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+PELECYPODA (clams and mussels)
++Anodonta californiensis
+California floater
+G3Q S2? None None USFS:S
++Anodonta oregonensis
+Oregon floater
+G5Q S2? None None
++Gonidea angulata
+western ridged mussel
+G3 S1S2 None None
++Margaritifera falcata
+western pearlshell
+G4G5 S1S2 None None
++Pisidium ultramontanum
+montane peaclam
+G1 S1 None None IUCN:VU
+USFS:S
+GASTROPODA (Snails, slugs and abalone)
+Algamorda newcombiana
+Newcomb's littorine snail
+G5 S1S2 None None
++Ammonitella yatesii
+tight coin (=Yates' snail)
+G1 S1 None None IUCN:VU
++Ancotrema voyanum
+hooded lancetooth
+G1G2 S1S2 None None BLM:S
++Assiminea infima
+Badwater snail
+G1 S1 None None IUCN:VU
++Binneya notabilis
+Santa Barbara shelled slug
+G1 S1 None None IUCN:DD
++Colligyrus convexus
+canary duskysnail
+G1G2 S1S2 None None
++Eremarionta immaculata
+white desertsnail
+G1 S1 None None IUCN:VU
+Eremarionta millepalmarum
+Thousand Palms desertsnail
+G1 S1 None None IUCN:VU
++Eremarionta morongoana
+Morongo (=Colorado) desertsnail
+G1G3 S1 None None IUCN:NT
++Eremarionta rowelli bakerensis
+Baker's desertsnail
+G3G4T1 S1 None None IUCN:DD
++Eremarionta rowelli mccoiana
+California Mccoy snail
+G3G
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+GASTROPODA (Snails, slugs and abalone)
++Helminthoglypta arrosa pomoensis
+Pomo bronze shoulderband
+G2G3T1 S1 None None IUCN:DD
++Helminthoglypta ayresiana
+sanctaecrucis
+Ayer's snail
+G1G2T1T2 S1S2 None None
++Helminthoglypta callistoderma
+Kern shoulderband
+G1 S1 None None IUCN:EN
++Helminthoglypta coelata
+mesa shoulderband
+G1 S1 None None IUCN:VU
++Helminthoglypta concolor
+whitefir shoulderband
+G1G2 S1S2 None None
+Helminthoglypta fontiphila
+Soledad shoulderband
+G1 S1 None None
++Helminthoglypta greggi
+Mohave shoulderband
+G1 S1 None None
++Helminthoglypta hertleini
+Oregon shoulderband
+G1 S1S2 None None BLM:S
++Helminthoglypta milleri
+peak shoulderband
+G1 S1 None None
++Helminthoglypta mohaveana
+Victorville shoulderband
+G1 S1 None None IUCN:NT
++Helminthoglypta nickliniana awania
+Peninsula coast range shoulderband
+G3T1 S1 None None IUCN:DD
++Helminthoglypta nickliniana bridgesi
+Bridges' coast range shoulderband
+G3T1 S1S2 None None IUCN:DD
++Helminthoglypta sequoicola consors
+redwood shoulderband
+G2T1 S1 None None IUCN:DD
++Helminthoglypta stiversiana williamsi
+Williams' bronze shoulderband
+G2G3T1 S1 None None IUCN:DD
++Helminthoglypta talmadgei
+Trinity shoulderband
+G2 S2 None None BLM:S
++Helminthoglypta taylori
+westfork shoulderband
+G1 S1 None None
+Helminthoglypta traskii pacoimensis
+Pacoima shoulderband
+G1G2T1 S1 None None
++Helminthoglypta traskii traskii
+Trask shoulderband
+G1G2T1 S1 None None
+Helminthoglypta uvasana
+Grapevine shoulderband
+G1 S1 None None
+Helminthoglypta vasquezi
+Vasquez shoulderband
+G1 S1 None None
++Helminthoglypta walkeriana
+Morro shoulderband (=banded dune)
+snail
+G1 S1S2 Endangered None IUCN:CR
+Herpeteros angelus
+Soledad desertsnail
+G1 S1 None None
++Hesperarion plumbeus
+leaden slug
+G1 S1 None None
++Ipnobius robustus
+robust tryonia
+G1G2 S1 None None
++Juga acutifilosa
+topaz juga
+G2 S2 None None USFS:S
++Juga chacei
+Chace juga
+G1 S1 None None USFS:S
++Juga occata
+scalloped juga
+G1 S1 None None USFS:S
++Juga orickensis
+redwood juga
+G2 S1S2 None None
+Lanx alta
+highcap lanx
+G2 S1S2 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+GASTROPODA (Snails, slugs and abalone)
+Lanx klamathensis
+scale lanx
+G1 S1 None None
++Lanx patelloides
+kneecap lanx
+G2 S2 None None USFS:S
++Megomphix californicus
+Natural Bridge megomphix
+G1G2 S1S2 None None
++Micrarionta facta
+Santa Barbara islandsnail
+G1G2 S1S2 None None IUCN:VU
++Micrarionta feralis
+San Nicolas islandsnail
+G1 S1 None None IUCN:CR
++Micrarionta gabbi
+San Clemente islandsnail
+G1 S1 None None IUCN:VU
++Micrarionta opuntia
+pricklypear islandsnail
+G1 S1 None None IUCN:VU
++Monadenia callipeplus
+downy sideband
+G1G2 S1S2 None None
++Monadenia chaceana
+Siskiyou shoulderband
+G2G3 S2 None None BLM:S
++Monadenia churchi
+Klamath sideband
+G2G3 S2 None None
++Monadenia circumcarinata
+keeled sideband
+G1 S1 None None BLM:S
+IUCN:VU
++Monadenia cristulata
+crested sideband
+G1? S1S2 None None
++Monadenia fidelis leonina
+A terrestrial snail
+G4G5T1T2 S1S2 None None
++Monadenia fidelis pronotis
+rocky coast Pacific sideband
+G4G5T1 S1 None None
++Monadenia infumata ochromphalus
+yellow-based sideband
+G2T1 S1 None None
++Monadenia infumata setosa
+Trinity bristle snail
+G2T2 S2 None Threatened IUCN:VU
+Monadenia marmarotis
+marble sideband
+G1 S1 None None
++Monadenia mormonum buttoni
+Button's Sierra sideband
+G2T1 S1S2 None None
++Monadenia mormonum hirsuta
+hirsute Sierra sideband
+G2T1 S1 None None BLM:S
++Monadenia troglodytes troglodytes
+Shasta sideband
+G1G2T1T2 S1S2 None None IUCN:DD
+USFS:S
++Monadenia troglodytes wintu
+Wintu sideband
+G1G2T1T2 S1S2 None None IUCN:DD
+USFS:S
++Monadenia tuolumneana
+Tuolumne sideband
+G1 S1 None None BLM:S
++Monadenia yosemitensis
+Yosemite Mariposa sideband
+G1 S1S2 None None
++Noyo intersessa
+Ten Mile shoulderband
+G2 S2 None None
++Pomatiopsis binneyi
+robust walker
+G1 S1 None None
+Pomatiopsis californica
+Pacific walker
+G1 S1 None None
+Pomatiopsis chacei
+marsh walker
+G1 S1 None None
++Pristiloma shepardae
+Shepard's snail
+G1 S1 None None
++Pristinicola hemphilli
+pristine pyrg
+G3 S1 None None USFS:S
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+GASTROPODA (Snails, slugs and abalone)
+Prophysaon coeruleum
+Blue-gray taildropper slug
+G3G4 S1S2 None None Yes
++Punctum hannai
+Trinity Spot
+G1G2 S1S2 None None
++Pyrgulopsis aardahli
+Benton Valley (=Aahrdahl's)
+springsnail
+G1 S1 None None
++Pyrgulopsis archimedis
+Archimedes pyrg
+G1G2 S1S2 None None
++Pyrgulopsis cinerana
+Ash Valley pyrg
+G1G2 S1S2 None None
++Pyrgulopsis diablensis
+Diablo Range pyrg
+G1 S1 None None IUCN:VU
++Pyrgulopsis eremica
+Smoke Creek pyrg
+G2 S2 None None
++Pyrgulopsis falciglans
+Likely pyrg
+G1 S1 None None
++Pyrgulopsis gibba
+Surprise Valley pyrg
+G3 S1S2 None None
++Pyrgulopsis greggi
+Kern River pyrg
+G1 S1 None None IUCN:VU
++Pyrgulopsis lasseni
+Willow Creek pyrg
+G1G2 S1S2 None None USFS:S
++Pyrgulopsis longae
+Long Valley pyrg
+G1 S1 None None
++Pyrgulopsis owensensis
+Owens Valley springsnail
+G1G2 S1S2 None None USFS:S
++Pyrgulopsis perturbata
+Fish Slough springsnail
+G1 S1 None None
++Pyrgulopsis rupinicola
+Sucker Springs pyrg
+G1 S1 None None
++Pyrgulopsis taylori
+San Luis Obispo pyrg
+G1 S1 None None
++Pyrgulopsis ventricosa
+Clear Lake pyrg
+G1 S1 None None IUCN:CR
++Pyrgulopsis wongi
+Wong's springsnail
+G2 S2 None None IUCN:LC
+USFS:S
++Radiocentrum avalonense
+Catalina mountainsnail
+G1 S1 None None IUCN:CR
++Rothelix warnerfontis
+Warner Springs shoulderband
+G1 S1 None None USFS:S
++Sterkia clementina
+San Clemente Island blunt-top snail
+G1 S1S2 None None IUCN:NT
++Trilobopsis roperi
+Shasta chaparral
+G1 S1 None None USFS:S
++Trilobopsis tehamana
+Tehama chaparral
+G1 S1 None None BLM:S
+USFS:S
++Tryonia imitator
+mimic tryonia (=California
+brackishwater snail)
+G2 S2 None None IUCN:DD
++Tryonia margae
+Grapevine Springs elongate tryonia
+G1 S1 None None
++Tryonia rowlandsi
+Grapevine Springs squat tryonia
+G1 S1 None None
++Vespericola karokorum
+Karok hesperian
+G2 S2 None None IUCN:DD
++Vespericola marinensis
+Marin hesperian
+G2 S2 None None
++Vespericola pressleyi
+Big Bar hesperian
+G1 S1 None None BLM:S
+USFS:S
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+GASTROPODA (Snails, slugs and abalone)
+Vespericola scotti
+Benson Gulch hesperian
+G1 S1 None None
++Vespericola shasta
+Shasta hesperian
+G1 S1 None None USFS:S
++Vespericola sierranus
+Siskiyou hesperian
+G2 S1S2 None None
++Xerarionta intercisa
+horseshoe snail
+G1 S1 None None IUCN:VU
++Xerarionta redimita
+wreathed cactussnail
+G1G2 S1 None None IUCN:VU
+Xerarionta tryoni
+Bicolor cactussnail
+G1 S1 None None IUCN:VU
+ARACHNIDA (Spiders and relatives)
++Aphrastochthonius grubbsi
+Grubbs' Cave pseudoscorpion
+G1G2 S1S2 None None
+Aphrastochthonius similis
+Carlow's Cave pseudoscorpion
+G1G2 S1S2 None None
+Archeolarca aalbui
+Aalbu's Cave pseudoscorpion
+G1G2 S1S2 None None
++Banksula californica
+Alabaster Cave harvestman
+GH SH None None
++Banksula galilei
+Galile's cave harvestman
+G1 S1 None None
++Banksula grubbsi
+Grubbs' cave harvestman
+G1 S1 None None
++Banksula incredula
+incredible harvestman
+G1 S1 None None
++Banksula martinorum
+Martins' cave harvestman
+G1 S1 None None
++Banksula melones
+Melones Cave harvestman
+G1 S1 None None IUCN:VU
++Banksula rudolphi
+Rudolph's cave harvestman
+G1 S1 None None
++Banksula tuolumne
+Tuolumne cave harvestman
+G1 S1 None None
++Banksula tutankhamen
+King Tut Cave harvestman
+G1 S1 None None
++Calicina arida
+San Benito harvestman
+G1 S1 None None
++Calicina breva
+Stanislaus harvestman
+G1 S1 None None
++Calicina cloughensis
+Clough Cave harvestman
+G1 S1 None None
++Calicina conifera
+Crane Flat harvestman
+G1 S1 None None
++Calicina diminua
+Marin blind harvestman
+G1 S1 None None
++Calicina dimorphica
+Watts Valley harvestman
+G1 S1 None None
++Calicina macula
+marbled harvestman
+G1 S1 None None
++Calicina mesaensis
+Table Mountain harvestman
+G1 S1 None None
++Calicina minor
+Edgewood blind harvestman
+G1 S1 None None
++Calicina piedra
+Piedra harvestman
+G1 S1 None None
++Calileptoneta briggsi
+Briggs' leptonetid spider
+G1 S1 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+ARACHNIDA (Spiders and relatives)
++Calileptoneta oasa
+Andreas Canyon leptonetid spider
+G1 S1 None None
++Calileptoneta ubicki
+Ubick's leptonetid spider
+G1 S1 None None
++Calileptoneta wapiti
+Mendocino leptonetid spider
+G1 S1 None None
++Fissilicreagris imperialis
+Empire Cave pseudoscorpion
+G1 S1 None None IUCN:VU
++Hubbardia idria
+Idria short-tailed whipscorpion
+G1 S1 None None
++Hubbardia secoensis
+Arroyo Seco short-tailed
+whipscorpion
+G1 S1 None None
++Hubbardia shoshonensis
+Shoshone Cave whip-scorpion
+G1 S1 None None BLM:S Yes
++Larca laceyi
+Lacey's Cave pseudoscorpion
+G1G2 S1 None None
++Meta dolloff
+Dolloff Cave spider
+G1 S1 None None IUCN:VU
++Microcina edgewoodensis
+Edgewood Park micro-blind
+harvestman
+G1 S1 None None
++Microcina homi
+Hom's micro-blind harvestman
+G1 S1 None None
++Microcina jungi
+Jung's micro-blind harvestman
+G1 S1 None None
++Microcina leei
+Lee's micro-blind harvestman
+G1 S1 None None
++Microcina lumi
+Lum's micro-blind harvestman
+G1 S1 None None
++Microcina tiburona
+Tiburon micro-blind harvestman
+G1 S1 None None
++Neochthonius imperialis
+Empire Cave pseudoscorpion
+G1 S1 None None
++Pseudogarypus orpheus
+Music Hall Cave pseudoscorpion
+G1G2 S1 None None
++Socalchemmis gertschi
+Gertsch's socalchemmis spider
+G1 S1 None None
++Socalchemmis icenoglei
+Icenogle's socalchemmis spider
+G1 S1 None None
++Socalchemmis monterey
+Monterey socalchemmis spider
+G1 S1 None None
++Talanites moodyae
+Moody's gnaphosid spider
+G1G2 S1S2 None None
++Talanites ubicki
+Ubick's gnaphosid spider
+G1 S1 None None
+Telema sp.
+Santa Cruz telemid spider
+G1G2 S1S2 None None
+Texella deserticola
+Whitewater Canyon harvestman
+G1 S1 None None
++Texella kokoweef
+Kokoweef Crystal Cave harvestman
+G1 S1 None None
++Texella shoshone
+Shoshone Cave harvestman
+G1 S1 None None
+CRUSTACEA, Order Anostraca (fairy shrimp)
++Artemia monica
+Mono Lake brine shrimp
+G3 S3 None None IUCN:CD
++Branchinecta campestris
+pocket pouch fairy shrimp
+G2 S1 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+CRUSTACEA, Order Anostraca (fairy shrimp)
++Branchinecta conservatio
+Conservancy fairy shrimp
+G2 S2 Endangered None IUCN:EN
++Branchinecta longiantenna
+longhorn fairy shrimp
+G1 S1S2 Endangered None IUCN:EN
++Branchinecta lynchi
+vernal pool fairy shrimp
+G3 S3 Threatened None IUCN:VU
++Branchinecta mesovallensis
+midvalley fairy shrimp
+G2 S2S3 None None
++Branchinecta sandiegonensis
+San Diego fairy shrimp
+G2 S2 Endangered None IUCN:EN
++Linderiella occidentalis
+California linderiella
+G2G3 S2S3 None None IUCN:NT
++Linderiella santarosae
+Santa Rosa Plateau fairy shrimp
+G1G2 S1 None None
++Streptocephalus woottoni
+Riverside fairy shrimp
+G1G2 S1S2 Endangered None IUCN:EN
+CRUSTACEA, Order Notostraca (tadpole shrimp)
++Lepidurus packardi
+vernal pool tadpole shrimp
+G4 S3S4 Endangered None IUCN:EN
+CRUSTACEA, Order Anomopoda (water fleas)
++Dumontia oregonensis
+hairy water flea
+G1G3 S1 None None
+CRUSTACEA, Order Isopoda (isopods)
++Bowmanasellus sequoiae
+Sequoia cave isopod
+G1 S1 None None
++Caecidotea tomalensis
+Tomales isopod
+G2 S2S3 None None
++Calasellus californicus
+An isopod
+G2 S2 None None
++Calasellus longus
+An isopod
+G1 S1 None None
+CRUSTACEA, Order Amphipoda (amphipods)
++Hyalella muerta
+Texas Spring amphipod
+G1 S1 None None Yes
++Hyalella sandra
+Death Valley amphipod
+G1 S1 None None Yes
++Stygobromus cherylae
+Barr's amphipod
+G1 S1 None None
+Stygobromus cowani
+Cowan's amphipod
+G1 S1 None None
+Stygobromus gallawayae
+Gallaway's amphipod
+G1 S1 None None
++Stygobromus gradyi
+Grady's Cave amphipod
+G1 S1 None None IUCN:VU
+Stygobromus grahami
+Graham's Cave amphipod
+G2 S2 None None
++Stygobromus harai
+Hara's Cave amphipod
+G1G2 S1S2 None None IUCN:VU
+Stygobromus hyporheicus
+Hypoheic amphipod
+G1 S1 None None
+Stygobromus imperialis
+Empire Cave amphipod
+G1 S1 None None
++Stygobromus lacicolus
+Lake Tahoe amphipod
+G1 S1 None None
++Stygobromus mackenziei
+Mackenzie's Cave amphipod
+G1 S1 None None IUCN:VU
+Stygobromus myersae
+Myer's amphipod
+G1G2 S1S2 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+CRUSTACEA, Order Amphipoda (amphipods)
+Stygobromus mysticus
+Secret Cave amphipod
+G1 S1 None None
+Stygobromus rudolphi
+Rudolph's amphipod
+G1 S1 None None
+Stygobromus sheldoni
+Sheldon's amphipod
+G1 S1 None None
+Stygobromus sierrensis
+Sierra amphipod
+G1 S1 None None
++Stygobromus tahoensis
+Lake Tahoe stygobromid
+G1 S1 None None
+Stygobromus trinus
+Trinity County amphipod
+G1 S1 None None
++Stygobromus wengerorum
+Wengerors' Cave amphipod
+G1 S1 None None IUCN:VU
+CRUSTACEA, Order Decapoda (crayfish & shrimp)
++Pacifastacus fortis
+Shasta crayfish
+G1 S1 Endangered Endangered IUCN:CR
+Pacifastacus leniusculus klamathensis
+Klamath crayfish
+G5T5 S3 None None
++Syncaris pacifica
+California freshwater shrimp
+G2 S2 Endangered Endangered IUCN:EN
+INSECTA, Order Odonata (dragonflies & damselflies)
++Ischnura gemina
+San Francisco forktail damselfly
+G2 S2 None None IUCN:VU
+INSECTA, Order Plecoptera (stoneflies)
++Capnia lacustra
+Lake Tahoe benthic stonefly
+G1 S1 None None
++Cosumnoperla hypocrena
+Cosumnes stripetail
+G2 S2 None None
+INSECTA, Order Orthoptera (grasshoppers, katydids, and crickets)
++Aglaothorax longipennis
+Santa Monica shieldback katydid
+G1G2 S1S2 None None IUCN:CR
++Ammopelmatus kelsoensis
+Kelso jerusalem cricket
+G1G2 S1S2 None None IUCN:VU
++Ammopelmatus muwu
+Point Conception jerusalem cricket
+G1 S1 None None IUCN:VU
++Idiostatus kathleenae
+Pinnacles shieldback katydid
+G1G2 S1S2 None None
++Idiostatus middlekauffi
+Middlekauff's shieldback katydid
+G1G2 S1 None None IUCN:CR
+Macrobaenetes algodonensis
+Algodones sand treader cricket
+G1G2 S1S2 None None
++Macrobaenetes kelsoensis
+Kelso giant sand treader cricket
+G2 S2 None None IUCN:VU
++Macrobaenetes valgum
+Coachella giant sand treader cricket
+G1G2 S1S2 None None IUCN:VU
+Pristoceuthophilus sp.
+Samwell Cave cricket
+G1G3 S1S3 None None IUCN:VU
++Psychomastax deserticola
+desert monkey grasshopper
+G1G2 S1S2 None None IUCN:VU
++Stenopelmatus cahuilaensis
+Coachella Valley jerusalem cricket
+G1G2 S1S2 None None IUCN:VU
++Tetrix sierrana
+Sierra pygmy grasshopper
+G1G2 S1S2 None None IUCN:VU
++Trimerotropis infantilis
+Zayante band-winged grasshopper
+G1 S1 Endangered None IUCN:EN
++Trimerotropis occidentiloides
+Santa Monica grasshopper
+G1G2 S1S2 None None IUCN:EN
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Orthoptera (grasshoppers, katydids, and crickets)
++Trimerotropis occulens
+Lompoc grasshopper
+G1G2 S1S2 None None IUCN:EN
+INSECTA, Order Heteroptera (true bugs)
++Ambrysus funebris
+Nevares Spring naucorid bug
+G1 S1 Candidate None
++Belostoma saratogae
+Saratoga Springs belostoman bug
+G1 S1 None None
++Oravelia pege
+Dry Creek cliff strider bug
+G1 S1 None None
++Pelocoris shoshone
+Amargosa naucorid bug
+G1G3 S1S2 None None
++Saldula usingeri
+Wilbur Springs shorebug
+G1 S1 None None
+INSECTA, Order Neuroptera (lacewings)
++Oliarces clara
+cheeseweed owlfly (cheeseweed
+moth lacewing)
+G1G3 S2 None None
+INSECTA, Order Coleoptera (beetles)
++Aegialia concinna
+Ciervo aegilian scarab beetle
+G1 S1 None None BLM:S
+IUCN:VU
++Agabus rumppi
+Death Valley agabus diving beetle
+G1G3 S1 None None
+Agrilus harenus
+Harenus jewel beetle
+G1G2 S1S2 None None
++Anomala carlsoni
+Carlson's dune beetle
+G1 S1 None None
++Anomala hardyorum
+Hardy's dune beetle
+G1 S1 None None
++Anthicus antiochensis
+Antioch Dunes anthicid beetle
+G1 S1 None None
++Anthicus sacramento
+Sacramento anthicid beetle
+G1 S1 None None IUCN:EN
++Atractelmis wawona
+Wawona riffle beetle
+G1G3 S1S2 None None
++Chaetarthria leechi
+Leech's chaetarthrian water
+scavenger beetle
+G1? S1? None None
++Cicindela gabbii
+western tidal-flat tiger beetle
+G2G4 S1 None None
++Cicindela hirticollis abrupta
+Sacramento Valley tiger beetle
+G5TH SH None None
++Cicindela hirticollis gravida
+sandy beach tiger beetle
+G5T2 S2 None None
++Cicindela latesignata latesignata
+western beach tiger beetle
+G2G4T1T2 S1 None None
++Cicindela ohlone
+Ohlone tiger beetle
+G1 S1 Endangered None
++Cicindela senilis frosti
+senile tiger beetle
+G2G3T1T3 S1 None None
++Cicindela tranquebarica ssp.
+San Joaquin tiger beetle
+G5T1 S1 None None
++Cicindela tranquebarica viridissima
+greenest tiger beetle
+G5T1 S1 None None
++Coelus globosus
+globose dune beetle
+G1G2 S1S2 None None IUCN:VU
++Coelus gracilis
+San Joaquin dune beetle
+G1 S1 None None BLM:S
+IUCN:VU
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Coleoptera (beetles)
+Coenonycha clementina
+San Clemente Island coenonycha
+beetle
+G1G2 S1S2 None None
+Cyclocephala wandae
+Wandae dune beetle
+G1G2 S1S2 None None
+Deltaspis ivae
+marsh-elder long-horned beetle
+G1 S1 None None
++Desmocerus californicus dimorphus
+valley elderberry longhorn beetle
+G3T2 S2 Threatened None
++Dinacoma caseyi
+Casey's June beetle
+G1 S1 Endangered None
++Dubiraphia brunnescens
+brownish dubiraphian riffle beetle
+G1 S1 None None
++Dubiraphia giulianii
+Giuliani's dubiraphian riffle beetle
+G1G3 S1S3 None None
++Elaphrus viridis
+Delta green ground beetle
+G1 S1 Threatened None IUCN:CR
++Glaresis arenata
+Kelso Dunes scarab glaresis beetle
+G2 S2 None None
++Hydrochara rickseckeri
+Ricksecker's water scavenger beetle
+G2? S2? None None
++Hydroporus leechi
+Leech's skyline diving beetle
+G1? S1? None None
++Hydroporus simplex
+simple hydroporus diving beetle
+G1? S1? None None
++Hygrotus curvipes
+curved-foot hygrotus diving beetle
+G1 S1 None None
++Hygrotus fontinalis
+travertine band-thigh diving beetle
+G1 S1 None None
+Juniperella mirabilis
+juniper metallic wood-boring beetle
+G1 S1 None None
++Lepismadora algodones
+Algodones sand jewel beetle
+G1 S1 None None
++Lichnanthe albipilosa
+white sand bear scarab beetle
+G1 S1 None None
++Lichnanthe ursina
+bumblebee scarab beetle
+G2 S2 None None
++Lytta hoppingi
+Hopping's blister beetle
+G1G2 S1S2 None None
+Lytta insperata
+Mojave Desert blister beetle
+G1G2 S1S2 None None
++Lytta moesta
+moestan blister beetle
+G2 S2 None None
++Lytta molesta
+molestan blister beetle
+G2 S2 None None
++Lytta morrisoni
+Morrison's blister beetle
+G1G2 S1S2 None None
++Microcylloepus formicoideus
+Furnace Creek riffle beetle
+G1 S1 None None
++Miloderes nelsoni
+Nelson's miloderes weevil
+G2 S2 None None
++Nebria darlingtoni
+South Forks ground beetle
+G1 S1 None None
++Nebria gebleri siskiyouensis
+Siskiyou ground beetle
+G4G5T4 S1S2 None None
++Nebria sahlbergii triad
+Trinity Alps ground beetle
+G1T1 S1 None None
+Ochthebius crassalus
+wing shoulder minute moss beetle
+G1G3 S1S3 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Coleoptera (beetles)
++Ochthebius recticulus
+Wilbur Springs minute moss beetle
+G1 S1 None None
++Onychobaris langei
+Lange's El Segundo Dune weevil
+G1 S1 None None
++Optioservus canus
+Pinnacles optioservus riffle beetle
+G1 S1 None None
+Paleoxenus dohrni
+Dohrn's elegant eucnemid beetle
+G3? S3? None None
++Polyphylla anteronivea
+Saline Valley snow-front June beetle
+G1 S1 None None
++Polyphylla barbata
+Mount Hermon (=barbate) June
+beetle
+G1 S1 Endangered None
++Polyphylla erratica
+Death Valley June beetle
+G1G2 S1S2 None None
++Polyphylla nubila
+Atascadero June beetle
+G1 S1 None None
+Prasinalia imperialis
+Algodones white wax jewel beetle
+G1G2 S1S2 None None
++Pseudocotalpa andrewsi
+Andrew's dune scarab beetle
+G1 S1 None None
+Scaphinotus behrensi
+Behrens' snail-eating beetle
+G2G4 S2S4 None None
++Trachykele hartmani
+serpentine cypress wood-boring
+beetle
+G1 S1 None None
+Trichinorhipis knulli
+Knull's metallic wood-boring beetle
+G1 S1 None None
++Trigonoscuta brunnotesselata
+brown tassel trigonoscuta weevil
+G1G2 S1S2 None None
++Trigonoscuta dorothea dorothea
+Dorothy's El Segundo Dune weevil
+G1T1 S1 None None
+Trigonoscuta rothi algodones
+Algodones dune weevil
+G1G2 S1S2 None None
+Trigonoscuta rothi imperialis
+Imperial dune weevil
+G1G2 S1S2 None None
+Trigonoscuta rothi punctata
+Punctate dune weevil
+G1G2 S1S2 None None
+Trigonoscuta rothi rothi
+Roth's dune weevil
+G1G2 S1S2 None None
++Trigonoscuta sp.
+Doyen's trigonoscuta dune weevil
+G1Q S1 None None Yes
++Trigonoscuta stantoni
+Santa Cruz Island shore weevil
+G1 S1 None None
++Vandykea tuberculata
+serpentine cypress long-horned
+beetle
+G1 S1 None None
+INSECTA, Order Mecoptera (scorpionflies)
++Orobittacus obscurus
+gold rush hanging scorpionfly
+G1 S1 None None
+INSECTA, Order Diptera (flies)
++Ablautus schlingeri
+Oso Flaco robber fly
+G1 S1 None None
+Apiocera warneri
+Glamis sand fly
+G1G2 S1S2 None None
++Brennania belkini
+Belkin's dune tabanid fly
+G1G2 S1S2 None None IUCN:VU
++Efferia antiochi
+Antioch efferian robberfly
+G1G2 S1S2 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Diptera (flies)
+Efferia macroxipha
+Glamis robberfly
+G1G2 S1S2 None None
++Metapogon hurdi
+Hurd's metapogon robberfly
+G1G2 S1S2 None None
++Paracoenia calida
+Wilbur Springs shore fly
+G1 S1 None None
++Rhaphiomidas terminatus abdominalis
+Delhi Sands flower-loving fly
+G1T1 S1 Endangered None
++Rhaphiomidas terminatus terminatus
+El Segundo flower-loving fly
+G1T1 S1 None None
+Rhaphiomidas trochilus
+Valley mydas fly
+G1 S1 None None
+INSECTA, Order Lepidoptera (butterflies & moths)
++Adela oplerella
+Opler's longhorn moth
+G2 S2 None None
++Apodemia mormo langei
+Lange's metalmark butterfly
+G5T1 S1 Endangered None XERCES:CI
++Areniscythris brachypteris
+Oso Flaco flightless moth
+G1 S1 None None
+Callophrys comstocki
+desert green hairstreak
+G3G4 S1S2 None None XERCES:IM
++Callophrys mossii bayensis
+San Bruno elfin butterfly
+G4T1 S1 Endangered None XERCES:CI
++Callophrys mossii hidakupa
+San Gabriel Mountains elfin butterfly
+G4T1T2 S1S2 None None USFS:S
++Callophrys mossii marinensis
+Marin elfin butterfly
+G4T1 S1 None None
++Callophrys thornei
+Thorne's hairstreak
+G1 S1 None None BLM:S Yes
++Carolella busckana
+Busck's gallmoth
+G1G3 SH None None
++Carterocephalus palaemon magnus
+Sonoma arctic skipper
+G5T5 S1 None None
+Cercyonis pegala carsonensis
+Carson Valley wood nymph
+G5T1T2 S1S2 None None
++Chlosyne leanira elegans
+Oso Flaco patch butterfly
+G4G5T1T2 S1S2 None None
++Coenonympha tullia yontockett
+Yontocket satyr
+G5T1T2 S1 None None
++Danaus plexippus pop. 1
+monarch - California overwintering
+population
+G4T2T3 S2S3 None None USFS:S
++Euchloe hyantis andrewsi
+Andrew's marble butterfly
+G3G4T1 S1 None None
++Eucosma hennei
+Henne's eucosman moth
+G1 S1 None None
++Euphilotes battoides allyni
+El Segundo blue butterfly
+G5T1 S1 Endangered None XERCES:CI
++Euphilotes battoides comstocki
+Comstock's blue butterfly
+G5T2 S2 None None
+Euphilotes baueri
+Bauer's dotted-blue
+G2G4 S1S2 None None USFS:S
+XERCES:IM
++Euphilotes enoptes smithi
+Smith's blue butterfly
+G5T1T2 S1S2 Endangered None XERCES:CI
+Euphilotes mojave
+Mojave dotted-blue
+G2G3 S1S2 None None XERCES:IM
++Euphydryas editha bayensis
+Bay checkerspot butterfly
+G5T1 S1 Threatened None XERCES:CI
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Lepidoptera (butterflies & moths)
++Euphydryas editha monoensis
+Mono checkerspot butterfly
+G5T2T3 S1S2 None None USFS:S
++Euphydryas editha quino
+quino checkerspot butterfly
+G5T1T2 S1S2 Endangered None XERCES:CI
+Euphyes vestris harbisoni
+dun skipper
+G5T1T2 S1S2 None None
++Euproserpinus euterpe
+Kern primrose sphinx moth
+G1G2 S1 Threatened None XERCES:CI Yes
++Glaucopsyche lygdamus
+palosverdesensis
+Palos Verdes blue butterfly
+G5T1 S1 Endangered None XERCES:CI
++Hesperia miriamae longaevicola
+White Mountains skipper
+G2G3T1 S1 None None
+Hesperopsis gracielae
+MacNeill's sootywing
+G2G3 S1S2 None None XERCES:VU
++Lycaena hermes
+Hermes copper butterfly
+G1 S1 Candidate None IUCN:VU
+USFS:S
+Lycaena rubidus incana
+White Mountains copper
+G5T2T3 S1 None None
++Panoquina errans
+wandering (=saltmarsh) skipper
+G4G5 S2 None None IUCN:NT
++Philotiella speciosa bohartorum
+Boharts' blue butterfly
+G3G4T1 S1 None None
++Plebejus icarioides albihalos
+White Mountains icarioides blue
+butterfly
+G5T2T3 S2? None None
++Plebejus icarioides missionensis
+Mission blue butterfly
+G5T1 S1 Endangered None XERCES:CI
++Plebejus icarioides moroensis
+Morro Bay blue butterfly
+G5T2 S2 None None
++Plebejus icarioides parapheres
+Point Reyes blue butterfly
+G5T1T2 S1S2 None None
++Plebejus idas lotis
+lotis blue butterfly
+G5TH SH Endangered None XERCES:CI
++Plebejus saepiolus albomontanus
+White Mountains saepiolus blue
+butterfly
+G5T2 S1S2 None None
++Plebejus saepiolus aureolus
+San Gabriel Mountains blue butterfly
+G5T1 S1 None None USFS:S
++Plebulina emigdionis
+San Emigdio blue butterfly
+G1G2 S1S2 None None USFS:S
++Polites mardon
+mardon skipper
+G2G3 S1 None None USFS:S
+XERCES:IM
+Polites sabuleti albamontana
+White Mountains sandhill skipper
+G5T2 S2 None None
+Pseudocopaeodes eunus eunus
+alkali skipper
+G3G4T2 S2 None None
++Pseudocopaeodes eunus obscurus
+Carson wandering skipper
+G3G4T1 S1 Endangered None XERCES:CI
++Pyrgus ruralis lagunae
+Laguna Mountains skipper
+G5T1 S1 Endangered None XERCES:CI
++Speyeria adiaste adiaste
+unsilvered fritillary
+G1G2T1 S1 None None
++Speyeria callippe callippe
+callippe silverspot butterfly
+G5T1 S1 Endangered None XERCES:CI
++Speyeria egleis tehachapina
+Tehachapi Mountain silverspot
+butterfly
+G5T2 S2 None None USFS:S
++Speyeria nokomis carsonensis
+Carson Valley silverspot
+G3T1 S1 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Lepidoptera (butterflies & moths)
++Speyeria zerene behrensii
+Behren's silverspot butterfly
+G5T1 S1 Endangered None XERCES:CI
++Speyeria zerene hippolyta
+Oregon silverspot butterfly
+G5T1 S1 Threatened None XERCES:CI
++Speyeria zerene myrtleae
+Myrtle's silverspot butterfly
+G5T1 S1 Endangered None XERCES:CI Yes
++Speyeria zerene sonomensis
+Sonoma zerene fritillary
+G5T1 S1 None None
+INSECTA, Order Trichoptera (caddisflies)
++Cryptochia denningi
+Denning's cryptic caddisfly
+G1G2 S1S2 None None
++Cryptochia excella
+Kings Canyon cryptochian caddisfly
+G1G2 S1S2 None None
++Cryptochia shasta
+confusion caddisfly
+G1G2 S1S2 None None
++Desmona bethula
+amphibious caddisfly
+G2G3 S2S3 None None
++Diplectrona californica
+California diplectronan caddisfly
+G1G2 S1S2 None None
++Ecclisomyia bilera
+Kings Creek ecclysomyian caddisfly
+G1G2 S1S2 None None
++Farula praelonga
+long-tailed caddisfly
+G1G2 S1S2 None None
++Goeracea oregona
+Sagehen Creek goeracean caddisfly
+G3 S1S2 None None
++Lepidostoma ermanae
+Cold Spring caddisfly
+G1G2 S1S2 None None
++Limnephilus atercus
+Fort Dick limnephilus caddisfly
+G3G4 S1 None None
++Neothremma genella
+golden-horned caddisfly
+G1G2 S1S2 None None
+Neothremma siskiyou
+Siskiyou caddisfly
+G1G2 S1S2 None None
++Parapsyche extensa
+King's Creek parapsyche caddisfly
+GH SH None None
++Rhyacophila lineata
+Castle Crags rhyacophilan caddisfly
+G1G3 S1S2 None None
++Rhyacophila mosana
+bilobed rhyacophilan caddisfly
+G1G2Q S1S2 None None
++Rhyacophila spinata
+spiny rhyacophilan caddisfly
+G1G2 S1S2 None None
+INSECTA, Order Hymenoptera (ants, bees, & wasps)
++Andrena blennospermatis
+Blennosperma vernal pool andrenid
+bee
+G2 S2 None None
++Andrena macswaini
+An andrenid bee
+G2 S2 None None
++Andrena subapasta
+An andrenid bee
+G1G2 S1S2 None None
++Argochrysis lassenae
+Lassen cuckoo wasp
+G1 S1 None None
++Ashmeadiella chumashae
+Channel Islands leaf-cutter bee
+G2? S2? None None
++Bombus caliginosus
+obscure bumble bee
+G4? S1S2 None None IUCN:VU
++Bombus crotchii
+Crotch bumble bee
+G3G4 S1S2 None None
++Bombus franklini
+Franklin's bumble bee
+G1 S1 None None IUCN:CR
+XERCES:CI
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Hymenoptera (ants, bees, & wasps)
++Bombus morrisoni
+Morrison bumble bee
+G4G5 S1S2 None None IUCN:VU
++Bombus occidentalis
+western bumble bee
+G2G3 S1 None None USFS:S
+XERCES:IM
++Bombus suckleyi
+Suckley's cuckoo bumble bee
+GU S1 None None
++Ceratochrysis bradleyi
+Bradley's cuckoo wasp
+G1 S1 None None
++Ceratochrysis gracilis
+Piute Mountains cuckoo wasp
+G1 S1 None None
++Ceratochrysis longimala
+Desert cuckoo wasp
+G1 S1 None None
++Ceratochrysis menkei
+Menke's cuckoo wasp
+G1 S1 None None
++Chrysis tularensis
+Tulare cuckoo wasp
+G1G2 S1S2 None None
+Cleptes humboldti
+Humboldt cuckoo wasp
+G1G2 S1S2 None None
++Dufourea stagei
+Stage's dufourine bee
+G1G2 S1 None None
++Eucerceris ruficeps
+redheaded sphecid wasp
+G1G3 S1S2 None None
+Euparagia unidentata
+Algodones euparagia
+G1G2 S1S2 None None
+Habropoda pallida
+white faced bee
+G1G2 S1S2 None None
++Halictus harmonius
+haromonius halictid bee
+G1 S1 None None XERCES:CI
++Hedychridium argenteum
+Riverside cuckoo wasp
+G1G2 S1S2 None None
++Hedychridium milleri
+Borax Lake cuckoo wasp
+G1 S1 None None
++Lasioglossum channelense
+Channel Island sweat bee
+G1 S1 None None
++Melitta californica
+California mellitid bee
+G4? S2? None None
+Microbembex elegans
+Algodones elegant sand wasp
+G1G2 S1S2 None None
++Minymischa ventura
+Ventura cuckoo wasp
+GU SU None None
++Myrmosula pacifica
+Antioch multilid wasp
+GH SH None None
+Neolarra alba
+white cuckoo bee
+GH SH None None
++Paranomada californica
+California cuckoo bee
+G1 S1 None None
++Parnopes borregoensis
+Borrego parnopes cuckoo wasp
+G1G2 S1S2 None None
+Perdita algodones
+Algodones perdita
+G1G2 S1S2 None None
+Perdita frontalis
+Imperial Perdita
+G1G2 S1S2 None None
+Perdita glamis
+Glamis perdita
+G1G2 S1S2 None None
++Perdita scitula antiochensis
+Antioch andrenid bee
+G1T1 S1 None None
++Philanthus nasalis
+Antioch specid wasp
+G1 S1 None None
+Special Animals List - August 2018
+Invertebrates
+Species Comment Rank ESA CESA Other Status Notes
+INSECTA, Order Hymenoptera (ants, bees, & wasps)
++Protodufourea wasbaueri
+Wasbauer's protodufourea bee
+G1 S1 None None XERCES:DD
++Protodufourea zavortinki
+Zavortink's protodufourea bee
+G1 S1 None None
++Rhopalolemma robertsi
+Roberts' rhopalolemma bee
+G1 S1 None None
+Sedomaya glamisensis
+Glamis night tiphiid
+G1G2 S1S2 None None
+Sphaeropthalma ecarinata
+Glamis night mutillid
+G1G2 S1S2 None None
++Sphecodogastra antiochensis
+Antioch Dunes halcitid bee
+G1 S1 None None XERCES:CI
+Stictiella villegasi
+Algodones sand wasp
+G1G2 S1S2 None None
++Trachusa gummifera
+San Francisco Bay Area leaf-cutter
+bee
+G1 S1 None None
+Special Animals List - August 2018
+Fishes
+Species Comment Rank ESA CESA Other Status Notes
+PETROMYZONTIDAE (lampreys)
+Entosphenus folletti
+northern California brook lamprey
+G1G2Q S1S2 None None CDFW:SSC
++Entosphenus hubbsi
+Kern brook lamprey
+G1G2 S1S2 None None AFS:TH
+CDFW:SSC
+IUCN:NT
+USFS:S
+Entosphenus lethophagus
+Pit-Klamath brook lamprey
+G3G4 S3 None None AFS:VU
+CDFW:SSC
+Entosphenus similis
+Klamath River lamprey
+G3G4Q S3 None None AFS:TH
+CDFW:SSC
+USFS:S
++Entosphenus tridentatus
+Pacific lamprey
+G4 S4 None None AFS:VU
+BLM:S
+CDFW:SSC
+USFS:S
++Entosphenus tridentatus ssp. 1
+Goose Lake lamprey
+G4T1 S1 None None AFS:VU
+CDFW:SSC
+USFS:S
+Lampetra ayresii
+river lamprey
+G4 S3 None None AFS:VU
+CDFW:SSC
+ACIPENSERIDAE (sturgeon)
++Acipenser medirostris
+green sturgeon
+(southern DPS) G3 S1S2 Threatened None AFS:VU
+CDFW:SSC
+IUCN:NT
+NMFS:SC
+Yes
+Acipenser transmontanus
+white sturgeon
+G4 S2 None None AFS:EN
+CDFW:SSC
+IUCN:LC
+SALMONIDAE (trout & salmon)
++Oncorhynchus clarkii clarkii
+coast cutthroat trout
+G4T4 S3 None None AFS:VU
+CDFW:SSC
+USFS:S
++Oncorhynchus clarkii henshawi
+Lahontan cutthroat trout
+G4T3 S2 Threatened None AFS:TH
++Oncorhynchus clarkii seleniris
+Paiute cutthroat trout
+G4T1T2 S1S2 Threatened None AFS:EN
++Oncorhynchus gorbuscha
+pink salmon
+G5 S1 None None
+Oncorhynchus keta
+chum salmon
+G5 S1 None None
++Oncorhynchus kisutch pop. 2
+coho salmon - southern Oregon /
+northern California ESU
+G4T2Q S2? Threatened Threatened AFS:TH Yes
++Oncorhynchus kisutch pop. 4
+coho salmon - central California
+coast ESU
+G4 S2? Endangered Endangered AFS:EN Yes
++Oncorhynchus mykiss aguabonita
+California golden trout
+G5T1 S1 None None AFS:TH
+CDFW:SSC
+USFS:S
++Oncorhynchus mykiss aquilarum
+Eagle Lake rainbow trout
+G5T1Q S1 None None AFS:TH
+CDFW:SSC
+USFS:S
+Oncorhynchus mykiss gilberti
+Kern River rainbow trout
+G5T1Q S1 None None AFS:TH
+CDFW:SSC
+USFS:S
+Oncorhynchus mykiss irideus pop. 1
+steelhead - Klamath Mountains
+Province DPS
+G5T3Q S2 None None CDFW:SSC
+USFS:S
+Yes
+Special Animals List - August 2018
+Fishes
+Species Comment Rank ESA CESA Other Status Notes
+SALMONIDAE (trout & salmon)
++Oncorhynchus mykiss irideus pop. 10
+steelhead - southern California DPS
+G5T1Q S1 Endangered None AFS:EN Yes
++Oncorhynchus mykiss irideus pop. 11
+steelhead - Central Valley DPS
+G5T2Q S2 Threatened None AFS:TH Yes
++Oncorhynchus mykiss irideus pop. 16
+steelhead - northern California DPS
+G5T2T3Q S2S3 Threatened None AFS:TH Yes
++Oncorhynchus mykiss irideus pop. 36
+summer-run steelhead trout
+G5T4Q S2 None None CDFW:SSC Yes
++Oncorhynchus mykiss irideus pop. 8
+steelhead - central California coast
+DPS
+G5T2T3Q S2S3 Threatened None AFS:TH Yes
++Oncorhynchus mykiss irideus pop. 9
+steelhead - south-central California
+coast DPS
+G5T2Q S2 Threatened None AFS:TH Yes
++Oncorhynchus mykiss ssp. 1
+Goose Lake redband trout
+G5T2Q S2 None None AFS:VU
+CDFW:SSC
+USFS:S
++Oncorhynchus mykiss ssp. 2
+McCloud River redband trout
+G5T1 S1S2 None None AFS:VU
+CDFW:SSC
+USFS:S
+Oncorhynchus mykiss ssp. 3
+Warner Valley redband trout
+G5T2Q S1? None None AFS:VU
+USFS:S
++Oncorhynchus mykiss whitei
+Little Kern golden trout
+G5T2 S2 Threatened None AFS:EN
+Oncorhynchus tshawytscha pop. 13
+chinook salmon - Central Valley fall /
+late fall-run ESU
+G5 S2 None None AFS:VU
+CDFW:SSC
+NMFS:SC
+USFS:S
+Yes
++Oncorhynchus tshawytscha pop. 17
+chinook salmon - California coastal
+ESU
+G5 S1 Threatened None AFS:TH Yes
++Oncorhynchus tshawytscha pop. 30
+chinook salmon - upper Klamath and
+Trinity Rivers ESU
+G5 S1S2 None None CDFW:SSC
+USFS:S
++Oncorhynchus tshawytscha pop. 6
+chinook salmon - Central Valley
+spring-run ESU
+G5 S1 Threatened Threatened AFS:TH Yes
++Oncorhynchus tshawytscha pop. 7
+chinook salmon - Sacramento River
+winter-run ESU
+G5 S1 Endangered Endangered AFS:EN
+Prosopium williamsoni
+mountain whitefish
+G5 S3 None None CDFW:SSC
++Salvelinus confluentus
+bull trout
+G4 SX Threatened Endangered IUCN:VU
+OSMERIDAE (smelt)
++Hypomesus transpacificus
+Delta smelt
+G1 S1 Threatened Endangered AFS:TH
+IUCN:EN
++Spirinchus thaleichthys
+longfin smelt
+G5 S1 Candidate Threatened CDFW:SSC Yes
++Thaleichthys pacificus
+eulachon
+(southern DPS) G5 S3 Threatened None
+CYPRINIDAE (minnows and carp)
++Gila coerulea
+blue chub
+G3G4 S2S3 None None CDFW:SSC
++Gila elegans
+bonytail
+G1 SH Endangered Endangered AFS:EN
+IUCN:EN
++Gila orcuttii
+arroyo chub
+G2 S2 None None AFS:VU
+CDFW:SSC
+USFS:S
+Special Animals List - August 2018
+Fishes
+Species Comment Rank ESA CESA Other Status Notes
+CYPRINIDAE (minnows and carp)
++Lavinia exilicauda chi
+Clear Lake hitch
+G4T1 S1 None Threatened AFS:VU
+USFS:S
+Lavinia exilicauda exilicauda
+Sacramento hitch
+G4T2T4 S2S4 None None CDFW:SSC
+Lavinia exilicauda harengus
+Pajaro/Salinas hitch
+G4T2T4 S2S4 None None CDFW:SSC
++Lavinia symmetricus mitrulus
+Pit roach
+G4T2 S2 None None AFS:VU
+CDFW:SSC
++Lavinia symmetricus navarroensis
+Navarro roach
+G4T1T2 S2S3 None None CDFW:SSC
++Lavinia symmetricus parvipinnis
+Gualala roach
+G4T1T2 S2S3 None None CDFW:SSC
++Lavinia symmetricus ssp. 1
+San Joaquin roach
+G4T3Q S3 None None CDFW:SSC Yes
++Lavinia symmetricus ssp. 2
+Tomales roach
+G4T2T3 S2 None None CDFW:SSC
++Lavinia symmetricus ssp. 3
+Red Hills roach
+G4T1 S1 None None AFS:VU
+BLM:S
+CDFW:SSC
+Lavinia symmetricus ssp. 4
+Clear Lake - Russian River roach
+G4T2T3 S2S3 None None CDFW:SSC
++Lavinia symmetricus subditus
+Monterey roach
+G4T2T3 S2S3 None None CDFW:SSC
++Mylopharodon conocephalus
+hardhead
+G3 S3 None None CDFW:SSC
+USFS:S
++Pogonichthys macrolepidotus
+Sacramento splittail
+GNR S3 None None AFS:VU
+CDFW:SSC
+IUCN:EN
++Ptychocheilus lucius
+Colorado pikeminnow
+G1 SX Endangered Endangered CDFW:FP
+IUCN:VU
++Rhinichthys osculus ssp. 1
+Amargosa Canyon speckled dace
+G5T1Q S1 None None AFS:TH
+BLM:S
+CDFW:SSC
+Yes
++Rhinichthys osculus ssp. 2
+Owens speckled dace
+G5T1T2Q S1S2 None None AFS:TH
+CDFW:SSC
+Yes
++Rhinichthys osculus ssp. 3
+Santa Ana speckled dace
+G5T1 S1 None None AFS:TH
+CDFW:SSC
+USFS:S
++Rhinichthys osculus ssp. 5
+Long Valley speckled dace
+G5T1 S1 None None AFS:EN
+BLM:S
+CDFW:SSC
++Siphateles bicolor mohavensis
+Mohave tui chub
+G4T1 S1 Endangered Endangered AFS:EN
+CDFW:FP
+Siphateles bicolor pectinifer
+Lahontan Lake tui chub
+G4T3 S1S2 None None CDFW:SSC
++Siphateles bicolor snyderi
+Owens tui chub
+G4T1 S1 Endangered Endangered AFS:EN
++Siphateles bicolor ssp. 1
+Eagle Lake tui chub
+G4T1T2 S1S2 None None CDFW:SSC
++Siphateles bicolor ssp. 2
+High Rock Spring tui chub
+G4TX SX None None
+Siphateles bicolor ssp. 3
+Pit River tui chub
+G4T1T3 S1S3 None None
++Siphateles bicolor thalassina
+Goose Lake tui chub
+G4T2T3 S2 None None AFS:TH
+CDFW:SSC
++Siphateles bicolor vaccaceps
+Cow Head tui chub
+G4T1 S1 None None AFS:EN
+CDFW:SSC
+Special Animals List - August 2018
+Fishes
+Species Comment Rank ESA CESA Other Status Notes
+CATOSTOMIDAE (suckers)
++Catostomus fumeiventris
+Owens sucker
+G3G4 S3 None None CDFW:SSC
++Catostomus latipinnis
+flannelmouth sucker
+G3G4 S1 None None
++Catostomus microps
+Modoc sucker
+G2 S2 Delisted Endangered AFS:EN
+CDFW:FP
+IUCN:EN
++Catostomus occidentalis
+lacusanserinus
+Goose Lake sucker
+G5T2Q S1 None None AFS:VU
+CDFW:SSC
+USFS:S
+Catostomus platyrhynchus
+mountain sucker
+G5 S3 None None CDFW:SSC
+Catostomus rimiculus ssp. 1
+Jenny Creek sucker
+G5T2Q S1 None None AFS:VU
++Catostomus santaanae
+Santa Ana sucker
+G1 S1 Threatened None AFS:TH
+IUCN:VU
++Catostomus snyderi
+Klamath largescale sucker
+G3 S3 None None AFS:TH
+CDFW:SSC
+IUCN:NT
++Chasmistes brevirostris
+shortnose sucker
+G1 S1 Endangered Endangered AFS:EN
+CDFW:FP
+IUCN:EN
++Deltistes luxatus
+Lost River sucker
+G1 S1 Endangered Endangered AFS:EN
+CDFW:FP
+IUCN:EN
++Xyrauchen texanus
+razorback sucker
+G1 S1S2 Endangered Endangered AFS:EN
+CDFW:FP
+IUCN:EN
+CYPRINODONTIDAE (killifishes)
++Cyprinodon macularius
+desert pupfish
+G1 S1 Endangered Endangered AFS:EN
+IUCN:VU
++Cyprinodon nevadensis amargosae
+Amargosa pupfish
+G2T1T2 S1S2 None None AFS:VU
+BLM:S
+CDFW:SSC
+IUCN:VU
++Cyprinodon nevadensis nevadensis
+Saratoga Springs pupfish
+G2T1 S1 None None AFS:TH
+CDFW:SSC
+IUCN:VU
++Cyprinodon nevadensis shoshone
+Shoshone pupfish
+G2T1 S1 None None AFS:EN
+CDFW:SSC
+IUCN:VU
++Cyprinodon radiosus
+Owens pupfish
+G1 S1 Endangered Endangered AFS:EN
+CDFW:FP
+IUCN:EN
++Cyprinodon salinus milleri
+Cottonball Marsh pupfish
+G1T1Q S1 None Threatened AFS:TH
+IUCN:EN
++Cyprinodon salinus salinus
+Salt Creek pupfish
+G1T1 S1 None None AFS:VU
+CDFW:SSC
+IUCN:EN
+GASTEROSTEIDAE (sticklebacks)
+Gasterosteus aculeatus microcephalus
+resident threespine stickleback
+(South of Pt. Conception
+only)
+G5T2T3 S2S3 None None Yes
+Gasterosteus aculeatus santaannae
+Santa Ana (=Shay Creek)
+threespine stickleback
+G5T1Q S1 None None AFS:EN Yes
++Gasterosteus aculeatus williamsoni
+unarmored threespine stickleback
+G5T1 S1 Endangered Endangered AFS:EN
+CDFW:FP
+Yes
+Special Animals List - August 2018
+Fishes
+Species Comment Rank ESA CESA Other Status Notes
+POLYPRIONIDAE (wreckfishes)
+Stereolepis gigas
+giant sea bass
+G3 S1S2 None None AFS:VU
+IUCN:CR
+Yes
+CENTRARCHIDAE (sunfishes)
++Archoplites interruptus
+Sacramento perch
+(Within native range
+only)
+G2G3 S1 None None AFS:TH
+CDFW:SSC
+EMBIOTOCIDAE (surfperches)
+Hysterocarpus traski lagunae
+Clear Lake tule perch
+G5T2T3 S2S3 None None CDFW:SSC
++Hysterocarpus traski pomo
+Russian River tule perch
+G5T4 S4 None None AFS:VU
+CDFW:SSC
+Hysterocarpus traski traski
+Sacramento-San Joaquin tule perch
+G5T2T3 S2S3 None None
+GOBIIDAE (gobies)
++Eucyclogobius newberryi
+tidewater goby
+G3 S3 Endangered None AFS:EN
+CDFW:SSC
+IUCN:VU
+COTTIDAE (sculpins)
++Cottus asperrimus
+rough sculpin
+G2 S2 None Threatened AFS:VU
+BLM:S
+CDFW:FP
+IUCN:VU
+Cottus gulosus
+riffle sculpin
+G5 S3S4 None None CDFW:SSC
+Cottus klamathensis klamathensis
+Upper Klamath marbled sculpin
+G4T1T2 S1S2 None None CDFW:SSC
++Cottus klamathensis macrops
+bigeye marbled sculpin
+G4T3 S2S3 None None AFS:VU
+CDFW:SSC
+Cottus klamathensis polyporus
+Lower Klamath marbled sculpin
+G4T2T4 S2S4 None None CDFW:SSC
+Cottus perplexus
+reticulate sculpin
+G4 S2S3 None None
+Special Animals List - August 2018
+Amphibians
+Species Comment Rank ESA CESA Other Status Notes
+AMBYSTOMATIDAE (mole salamanders)
++Ambystoma californiense
+California tiger salamander
+G2G3 S2S3 Threatened Threatened CDFW:WL
+IUCN:VU
+Yes
++Ambystoma macrodactylum croceum
+Santa Cruz long-toed salamander
+G5T1T2 S1S2 Endangered Endangered CDFW:FP
++Ambystoma macrodactylum sigillatum
+southern long-toed salamander
+G5T4 S3 None None CDFW:SSC
+DICAMPTODONTIDAE (giant salamanders)
++Dicamptodon ensatus
+California giant salamander
+G3 S2S3 None None CDFW:SSC
+IUCN:NT
+RHYACOTRITONIDAE (Olympic salamanders)
++Rhyacotriton variegatus
+southern torrent salamander
+G3G4 S2S3 None None CDFW:SSC
+IUCN:LC
+USFS:S
+SALAMANDRIDAE (newts)
++Taricha rivularis
+red-bellied newt
+G4 S2 None None CDFW:SSC
+IUCN:LC
++Taricha torosa
+Coast Range newt
+(Monterey Co. & south
+only)
+G4 S4 None None CDFW:SSC
+PLETHODONTIDAE (lungless salamanders)
++Aneides flavipunctatus niger
+Santa Cruz black salamander
+G3 S3 None None CDFW:SSC Yes
++Batrachoseps altasierrae
+Greenhorn Mountains slender
+salamander
+G4 S3S4 None None
++Batrachoseps bramei
+Fairview slender salamander
+G3 S3 None None USFS:S
++Batrachoseps campi
+Inyo Mountains slender salamander
+G3 S3 None None BLM:S
+CDFW:SSC
+IUCN:EN
+USFS:S
+Batrachoseps diabolicus
+Hell Hollow slender salamander
+G2 S3 None None IUCN:DD
++Batrachoseps gabrieli
+San Gabriel slender salamander
+G2G3 S2S3 None None IUCN:DD
+USFS:S
+Batrachoseps incognitus
+San Simeon slender salamander
+G2G3 S2 None None IUCN:DD
+USFS:S
+Batrachoseps kawia
+Sequoia slender salamander
+G1G2 S2 None None IUCN:DD
+Batrachoseps luciae
+Santa Lucia slender salamander
+G2G3 S3 None None IUCN:LC
++Batrachoseps major aridus
+desert slender salamander
+G4T1 S1 Endangered Endangered
++Batrachoseps minor
+lesser slender salamander
+G1 S1 None None CDFW:SSC
+IUCN:DD
+USFS:S
++Batrachoseps pacificus
+Channel Islands slender salamander
+G4 S3S4 None None IUCN:LC
++Batrachoseps regius
+Kings River slender salamander
+G2 S2S3 None None IUCN:VU
+USFS:S
++Batrachoseps relictus
+relictual slender salamander
+G1 S1 None None CDFW:SSC
+IUCN:DD
+USFS:S
+Yes
++Batrachoseps robustus
+Kern Plateau salamander
+G3 S3 None None IUCN:NT
++Batrachoseps simatus
+Kern Canyon slender salamander
+G2G3 S2S3 None Threatened IUCN:VU
+USFS:S
++Batrachoseps stebbinsi
+Tehachapi slender salamander
+G2 S2S3 None Threatened BLM:S
+IUCN:VU
+Special Animals List - August 2018
+Amphibians
+Species Comment Rank ESA CESA Other Status Notes
+PLETHODONTIDAE (lungless salamanders)
++Ensatina eschscholtzii croceator
+yellow-blotched salamander
+G5T3 S3 None None BLM:S
+CDFW:WL
+USFS:S
++Ensatina eschscholtzii klauberi
+large-blotched salamander
+G5T2? S3 None None CDFW:WL
+USFS:S
++Hydromantes brunus
+limestone salamander
+G2G3 S2S3 None Threatened BLM:S
+CDFW:FP
+IUCN:VU
+USFS:S
++Hydromantes platycephalus
+Mount Lyell salamander
+G4 S4 None None CDFW:WL
+IUCN:LC
++Hydromantes shastae
+Shasta salamander
+G1G2 S3 None Threatened BLM:S
+IUCN:VU
+USFS:S
++Plethodon asupak
+Scott Bar salamander
+G1G2 S1S2 None Threatened IUCN:VU Yes
++Plethodon elongatus
+Del Norte salamander
+G4 S3 None None CDFW:WL
+IUCN:NT
++Plethodon stormi
+Siskiyou Mountains salamander
+G3? S1S2 None Threatened IUCN:EN
+USFS:S
+ASCAPHIDAE (tailed frogs)
++Ascaphus truei
+Pacific tailed frog
+G4 S3S4 None None CDFW:SSC
+IUCN:LC
+SCAPHIOPODIDAE (spadefoot toads)
++Scaphiopus couchii
+Couch's spadefoot
+G5 S2 None None BLM:S
+CDFW:SSC
+IUCN:LC
++Spea hammondii
+western spadefoot
+G3 S3 None None BLM:S
+CDFW:SSC
+IUCN:NT
+BUFONIDAE (true toads)
++Anaxyrus californicus
+arroyo toad
+G2G3 S2S3 Endangered None CDFW:SSC
+IUCN:EN
+Yes
++Anaxyrus canorus
+Yosemite toad
+G2G3 S2S3 Threatened None CDFW:SSC
+IUCN:EN
+USFS:S
+Yes
++Anaxyrus exsul
+black toad
+G1 S1 None Threatened BLM:S
+CDFW:FP
+IUCN:VU
+USFS:S
+Yes
++Incilius alvarius
+Sonoran desert toad
+G5 SH None None CDFW:SSC
+IUCN:LC
+Yes
+RANIDAE (true frogs)
++Lithobates pipiens
+northern leopard frog
+(Native populations
+only)
+G5 S2 None None CDFW:SSC
+IUCN:LC
+Yes
++Lithobates yavapaiensis
+lowland leopard frog
+G4 SX None None BLM:S
+CDFW:SSC
+IUCN:LC
+Yes
++Rana aurora
+northern red-legged frog
+G4 S3 None None CDFW:SSC
+IUCN:LC
+USFS:S
+Yes
++Rana boylii
+foothill yellow-legged frog
+G3 S3 None Candidate
+Threatened
+BLM:S
+CDFW:SSC
+IUCN:NT
+USFS:S
++Rana cascadae
+Cascades frog
+G3G4 S3 None Candidate
+Endangered
+CDFW:SSC
+IUCN:NT
+USFS:S
+Yes
+Special Animals List - August 2018
+Amphibians
+Species Comment Rank ESA CESA Other Status Notes
+RANIDAE (true frogs)
++Rana draytonii
+California red-legged frog
+G2G3 S2S3 Threatened None CDFW:SSC
+IUCN:VU
+Yes
++Rana muscosa
+southern mountain yellow-legged
+frog
+G1 S1 Endangered Endangered CDFW:WL
+IUCN:EN
+USFS:S
+Yes
++Rana pretiosa
+Oregon spotted frog
+G2 SH Threatened None BLM:S
+CDFW:SSC
+IUCN:VU
++Rana sierrae
+Sierra Nevada yellow-legged frog
+G1 S1 Endangered Threatened CDFW:WL
+IUCN:EN
+USFS:S
+Yes
+Special Animals List - August 2018
+Reptiles
+Species Comment Rank ESA CESA Other Status Notes
+CHELONIIDAE (sea turtles)
++Chelonia mydas
+green turtle
+G3 S1 Threatened None IUCN:EN
+KINOSTERNIDAE (musk and mud turtles)
++Kinosternon sonoriense
+Sonoran mud turtle
+G4 SH None None CDFW:SSC
+IUCN:VU
+EMYDIDAE (box and water turtles)
++Emys marmorata
+western pond turtle
+G3G4 S3 None None BLM:S
+CDFW:SSC
+IUCN:VU
+USFS:S
+Yes
+TESTUDINIDAE (land tortoises)
++Gopherus agassizii
+desert tortoise
+G3 S2S3 Threatened Threatened IUCN:VU
+GEKKONIDAE (geckos)
++Coleonyx switaki
+barefoot gecko
+G4 S1 None Threatened BLM:S
+IUCN:LC
++Coleonyx variegatus abbotti
+San Diego banded gecko
+G5T3T4 S1S2 None None CDFW:SSC
+CROTAPHYTIDAE (collared & leopard lizards)
++Gambelia copeii
+Cope's leopard lizard
+G5 S1S2 None None CDFW:SSC
+IUCN:LC
++Gambelia sila
+blunt-nosed leopard lizard
+G1 S1 Endangered Endangered CDFW:FP
+IUCN:EN
+PHRYNOSOMATIDAE (spiny lizards)
++Phrynosoma blainvillii
+coast horned lizard
+G3G4 S3S4 None None BLM:S
+CDFW:SSC
+IUCN:LC
++Phrynosoma mcallii
+flat-tailed horned lizard
+G3 S2 None None BLM:S
+CDFW:SSC
+IUCN:NT
++Sceloporus graciosus graciosus
+northern sagebrush lizard
+G5T5 S3 None None BLM:S
++Uma inornata
+Coachella Valley fringe-toed lizard
+G1Q S1 Threatened Endangered IUCN:EN
++Uma notata
+Colorado Desert fringe-toed lizard
+G3 S2 None None BLM:S
+CDFW:SSC
+IUCN:NT
++Uma scoparia
+Mojave fringe-toed lizard
+G3G4 S3S4 None None BLM:S
+CDFW:SSC
+IUCN:LC
+XANTUSIIDAE (night lizards)
++Xantusia gracilis
+sandstone night lizard
+G1 S1 None None CDFW:SSC
+IUCN:VU
++Xantusia riversiana
+island night lizard
+G3 S3 Delisted None IUCN:LC
++Xantusia vigilis sierrae
+Sierra night lizard
+G5T1 S1 None None CDFW:SSC
+USFS:S
+Yes
+SCINCIDAE (skinks)
++Plestiodon skiltonianus interparietalis
+Coronado skink
+G5T5 S2S3 None None BLM:S
+CDFW:WL
+TEIIDAE (whiptails and relatives)
++Aspidoscelis hyperythra
+orange-throated whiptail
+G5 S2S3 None None CDFW:WL
+IUCN:LC
+USFS:S
++Aspidoscelis tigris stejnegeri
+coastal whiptail
+G5T5 S3 None None CDFW:SSC
+Special Animals List - August 2018
+Reptiles
+Species Comment Rank ESA CESA Other Status Notes
+ANGUIDAE (alligator lizards)
++Elgaria panamintina
+Panamint alligator lizard
+G3 S3 None None BLM:S
+CDFW:SSC
+IUCN:VU
+USFS:S
+ANNIELLIDAE (legless lizards)
++Anniella alexanderae
+Temblor legless lizard
+G1 S1 None None CDFW:SSC Yes
++Anniella campi
+southern Sierra legless lizard
+G1G2 S1S2 None None CDFW:SSC
+USFS:S
+Yes
++Anniella grinnelli
+Bakersfield legless lizard
+G2G3 S2S3 None None CDFW:SSC Yes
++Anniella pulchra
+northern California legless lizard
+G3 S3 None None CDFW:SSC
+USFS:S
+Yes
++Anniella sp.
+California legless lizard
+G3G4 S3S4 None None CDFW:SSC Yes
++Anniella stebbinsi
+southern California legless lizard
+G3 S3 None None CDFW:SSC
+USFS:S
+Yes
+HELODERMATIDAE (venomous lizards)
++Heloderma suspectum cinctum
+banded Gila monster
+G4T4 S1 None None BLM:S
+CDFW:SSC
+IUCN:NT
+Yes
+BOIDAE (boas)
++Charina umbratica
+southern rubber boa
+G2G3 S2S3 None Threatened USFS:S
+COLUBRIDAE (egg-laying snakes)
++Arizona elegans occidentalis
+California glossy snake
+G5T2 S2 None None CDFW:SSC
+Bogertophis rosaliae
+Baja California rat snake
+G4 S1 None None CDFW:WL
+IUCN:LC
++Diadophis punctatus modestus
+San Bernardino ringneck snake
+G5T2T3 S2? None None USFS:S
++Diadophis punctatus regalis
+regal ringneck snake
+GNR S2S3 None None CDFW:SSC
++Diadophis punctatus similis
+San Diego ringneck snake
+G5T2T3 S2? None None USFS:S
++Lampropeltis zonata (parvirubra)
+California mountain kingsnake (San
+Bernardino population)
+G4G5 S2? None None BLM:S
+CDFW:WL
+IUCN:LC
+USFS:S
++Lampropeltis zonata (pulchra)
+California mountain kingsnake (San
+Diego population)
+G4G5 S1S2 None None BLM:S
+CDFW:WL
+IUCN:LC
+USFS:S
++Masticophis flagellum ruddocki
+San Joaquin coachwhip
+G5T2T3 S2? None None CDFW:SSC
++Masticophis fuliginosus
+Baja California coachwhip
+G5 S1S2 None None CDFW:SSC
++Masticophis lateralis euryxanthus
+Alameda whipsnake
+G4T2 S2 Threatened Threatened
+Pituophis catenifer pumilus
+Santa Cruz Island gophersnake
+G5T1T2 S1? None None CDFW:WL
++Salvadora hexalepis virgultea
+coast patch-nosed snake
+G5T4 S2S3 None None CDFW:SSC
+NATRICIDAE (live-bearing snakes)
++Thamnophis gigas
+giant gartersnake
+G2 S2 Threatened Threatened IUCN:VU
+Special Animals List - August 2018
+Reptiles
+Species Comment Rank ESA CESA Other Status Notes
+NATRICIDAE (live-bearing snakes)
++Thamnophis hammondii
+two-striped gartersnake
+G4 S3S4 None None BLM:S
+CDFW:SSC
+IUCN:LC
+USFS:S
+Thamnophis hammondii pop. 1
+Santa Catalina gartersnake
+G4T1? S1 None None
++Thamnophis sirtalis pop. 1
+south coast gartersnake
+(Coastal plain from
+Ventura Co. to San
+Diego Co., from sea
+level to about 850 m.)
+G5T1T2 S1S2 None None CDFW:SSC Yes
++Thamnophis sirtalis tetrataenia
+San Francisco gartersnake
+G5T2Q S2 Endangered Endangered CDFW:FP
+VIPERIIDAE (vipers)
++Crotalus ruber
+red-diamond rattlesnake
+G4 S3 None None CDFW:SSC
+USFS:S
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+ANATIDAE (ducks, geese, and swans)
+Anser albifrons elgasi
+tule greater white-fronted goose
+(Wintering) G5T2 S2S3 None None CDFW:SSC
+Aythya americana
+redhead
+(Nesting) G5 S3S4 None None CDFW:SSC
+IUCN:LC
+Aythya valisineria
+canvasback
+(Nesting) G5 S2 None None IUCN:LC
+Branta bernicla
+brant
+(Wintering & staging) G5 S2? None None CDFW:SSC
+IUCN:LC
++Branta hutchinsii leucopareia
+cackling (=Aleutian Canada) goose
+(Wintering) G5T3 S3 Delisted None
+Bucephala islandica
+Barrow's goldeneye
+(Nesting) G5 S1 None None CDFW:SSC
+IUCN:LC
++Dendrocygna bicolor
+fulvous whistling-duck
+(Nesting) G5 S1 None None CDFW:SSC
+IUCN:LC
++Histrionicus histrionicus
+harlequin duck
+(Nesting) G4 S1 None None CDFW:SSC
+IUCN:LC
+PHASIANIDAE (grouse and ptarmigan)
++Bonasa umbellus
+ruffed grouse
+G5 S3S4 None None CDFW:WL
+IUCN:LC
++Centrocercus urophasianus
+greater sage-grouse
+(Nesting & leks) G3G4 S2S3 None None BLM:S
+CDFW:SSC
+IUCN:NT
+USFS:S
+Yes
++Dendragapus fuliginosus howardi
+Mount Pinos sooty grouse
+G5T2T3 S2S3 None None CDFW:SSC Yes
+Tympanuchus phasianellus
+columbianus
+Columbian sharp-tailed grouse
+G4T3 SX None None CDFW:SSC
+ODONTOPHORIDAE (partridge and quail)
+Callipepla californica catalinensis
+Catalina California quail
+G5T2 S2 None None CDFW:SSC
+GAVIIDAE (loons)
+Gavia immer
+common loon
+(Nesting) G5 S1 None None CDFW:SSC
+IUCN:LC
+DIOMEDEIDAE (albatross)
+Phoebastria albatrus
+short-tailed albatross
+G1 S1 Endangered None CDFW:SSC
+IUCN:VU
+NABCI:RWL
+HYDROBATIDAE (storm petrels)
++Oceanodroma furcata
+fork-tailed storm-petrel
+(Nesting colony) G5 S1 None None BLM:S
+CDFW:SSC
+IUCN:LC
++Oceanodroma homochroa
+ashy storm-petrel
+(Nesting colony) G2 S2 None None BLM:S
+CDFW:SSC
+IUCN:EN
+NABCI:RWL
+USFWS:BCC
++Oceanodroma melania
+black storm-petrel
+(Nesting colony) G3G4 S1 None None CDFW:SSC
+IUCN:LC
+NABCI:YWL
+PELECANIIDAE (pelicans)
++Pelecanus erythrorhynchos
+American white pelican
+(Nesting colony) G4 S1S2 None None CDFW:SSC
+IUCN:LC
++Pelecanus occidentalis californicus
+California brown pelican
+(Nesting colony &
+communal roosts)
+G4T3T4 S3 Delisted Delisted BLM:S
+CDFW:FP
+USFS:S
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+PHALACROCORACIDAE (cormorants)
++Phalacrocorax auritus
+double-crested cormorant
+(Nesting colony) G5 S4 None None CDFW:WL
+IUCN:LC
+ARDEIDAE (herons, egrets, and bitterns)
++Ardea alba
+great egret
+(Nesting colony) G5 S4 None None CDF:S
+IUCN:LC
++Ardea herodias
+great blue heron
+(Nesting colony) G5 S4 None None CDF:S
+IUCN:LC
+Botaurus lentiginosus
+American bittern
+G4 S3S4 None None IUCN:LC
++Egretta thula
+snowy egret
+(Nesting colony) G5 S4 None None IUCN:LC
++Ixobrychus exilis
+least bittern
+(Nesting) G4G5 S2 None None CDFW:SSC
+IUCN:LC
+USFWS:BCC
++Nycticorax nycticorax
+black-crowned night heron
+(Nesting colony) G5 S4 None None IUCN:LC
+THRESKIORNITHIDAE (ibises and spoonbills)
++Plegadis chihi
+white-faced ibis
+(Nesting colony) G5 S3S4 None None CDFW:WL
+IUCN:LC
+CICONIIDAE (storks)
+Mycteria americana
+wood stork
+G4 S2? None None CDFW:SSC
+IUCN:LC
+CATHARTIDAE (New World vultures)
++Gymnogyps californianus
+California condor
+G1 S1 Endangered Endangered CDF:S
+CDFW:FP
+IUCN:CR
+NABCI:RWL
+ACCIPITRIDAE (hawks, kites, harriers, & eagles)
++Accipiter cooperii
+Cooper's hawk
+(Nesting) G5 S4 None None CDFW:WL
+IUCN:LC
++Accipiter gentilis
+northern goshawk
+(Nesting) G5 S3 None None BLM:S
+CDF:S
+CDFW:SSC
+IUCN:LC
+USFS:S
++Accipiter striatus
+sharp-shinned hawk
+(Nesting) G5 S4 None None CDFW:WL
+IUCN:LC
++Aquila chrysaetos
+golden eagle
+(Nesting & wintering) G5 S3 None None BLM:S
+CDF:S
+CDFW:FP
+CDFW:WL
+IUCN:LC
+USFWS:BCC
++Buteo regalis
+ferruginous hawk
+(Wintering) G4 S3S4 None None CDFW:WL
+IUCN:LC
+USFWS:BCC
++Buteo swainsoni
+Swainson's hawk
+(Nesting) G5 S3 None Threatened BLM:S
+IUCN:LC
+USFWS:BCC
++Circus cyaneus
+northern harrier
+(Nesting) G5 S3 None None CDFW:SSC
+IUCN:LC
++Elanus leucurus
+white-tailed kite
+(Nesting) G5 S3S4 None None BLM:S
+CDFW:FP
+IUCN:LC
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+ACCIPITRIDAE (hawks, kites, harriers, & eagles)
++Haliaeetus leucocephalus
+bald eagle
+(Nesting & wintering) G5 S3 Delisted Endangered BLM:S
+CDF:S
+CDFW:FP
+IUCN:LC
+USFS:S
+USFWS:BCC
++Pandion haliaetus
+osprey
+(Nesting) G5 S4 None None CDF:S
+CDFW:WL
+IUCN:LC
+Parabuteo unicinctus
+Harris' hawk
+(Nesting) G5 S1 None None CDFW:WL
+IUCN:LC
+FALCONIDAE (falcons)
++Falco columbarius
+merlin
+(Wintering) G5 S3S4 None None CDFW:WL
+IUCN:LC
++Falco mexicanus
+prairie falcon
+(Nesting) G5 S4 None None CDFW:WL
+IUCN:LC
+USFWS:BCC
++Falco peregrinus anatum
+American peregrine falcon
+(Nesting) G4T4 S3S4 Delisted Delisted CDF:S
+CDFW:FP
+USFWS:BCC
+RALLIDAE (rails, coots, and gallinules)
++Coturnicops noveboracensis
+yellow rail
+G4 S1S2 None None CDFW:SSC
+IUCN:LC
+NABCI:RWL
+USFS:S
+USFWS:BCC
++Laterallus jamaicensis coturniculus
+California black rail
+G3G4T1 S1 None Threatened BLM:S
+CDFW:FP
+IUCN:NT
+NABCI:RWL
+USFWS:BCC
+Yes
++Rallus obsoletus levipes
+light-footed Ridgway's rail
+G5T1T2 S1 Endangered Endangered CDFW:FP
+NABCI:RWL
+Yes
++Rallus obsoletus obsoletus
+California Ridgway's rail
+G5T1 S1 Endangered Endangered CDFW:FP
+NABCI:RWL
+Yes
++Rallus obsoletus yumanensis
+Yuma Ridgway's rail
+G5T3 S1S2 Endangered Threatened CDFW:FP
+NABCI:RWL
+Yes
+GRUIDAE (cranes)
+Grus canadensis canadensis
+lesser sandhill crane
+(Wintering) G5T4 S3S4 None None CDFW:SSC
++Grus canadensis tabida
+greater sandhill crane
+(Nesting & wintering) G5T4 S2 None Threatened BLM:S
+CDFW:FP
+USFS:S
+CHARADRIIDAE (plovers and relatives)
++Charadrius alexandrinus nivosus
+western snowy plover
+(Nesting) G3T3 S2S3 Threatened None CDFW:SSC
+NABCI:RWL
+USFWS:BCC
+Yes
++Charadrius montanus
+mountain plover
+(Wintering) G3 S2S3 None None BLM:S
+CDFW:SSC
+IUCN:NT
+NABCI:RWL
+USFWS:BCC
+Yes
+SCOLOPACIDAE (sandpipers and relatives)
+Numenius americanus
+long-billed curlew
+(Nesting) G5 S2 None None CDFW:WL
+IUCN:LC
+NABCI:YWL
+USFWS:BCC
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+LARIDAE (gulls and terns)
++Chlidonias niger
+black tern
+(Nesting colony) G4 S2 None None CDFW:SSC
+IUCN:LC
++Gelochelidon nilotica
+gull-billed tern
+(Nesting colony) G5 S1 None None CDFW:SSC
+IUCN:LC
+NABCI:YWL
+USFWS:BCC
+Yes
++Hydroprogne caspia
+Caspian tern
+(Nesting colony) G5 S4 None None IUCN:LC
+USFWS:BCC
+Yes
++Larus californicus
+California gull
+(Nesting colony) G5 S4 None None CDFW:WL
+IUCN:LC
+Leucophaeus atricilla
+laughing gull
+(Nesting colony) G5 S1 None None CDFW:WL
+IUCN:LC
++Rynchops niger
+black skimmer
+(Nesting colony) G5 S2 None None CDFW:SSC
+IUCN:LC
+NABCI:YWL
+USFWS:BCC
++Sternula antillarum browni
+California least tern
+(Nesting colony) G4T2T3Q S2 Endangered Endangered CDFW:FP
+NABCI:RWL
+Yes
+Thalasseus elegans
+elegant tern
+(Nesting colony) G2 S2 None None CDFW:WL
+IUCN:NT
+Yes
+ALCIDAE (auklets, puffins, and relatives)
++Brachyramphus marmoratus
+marbled murrelet
+(Nesting) G3G4 S1 Threatened Endangered CDF:S
+IUCN:EN
+NABCI:RWL
++Cerorhinca monocerata
+rhinoceros auklet
+(Nesting colony) G5 S3 None None CDFW:WL
+IUCN:LC
++Fratercula cirrhata
+tufted puffin
+(Nesting colony) G5 S1S2 None None CDFW:SSC
+IUCN:LC
+Ptychoramphus aleuticus
+Cassin's auklet
+(Nesting colony) G4 S2S4 None None CDFW:SSC
+IUCN:LC
+USFWS:BCC
++Synthliboramphus scrippsi
+Scripps's murrelet
+(Nesting colony) G3 S2 Candidate Threatened BLM:S
+IUCN:VU
+NABCI:RWL
+USFWS:BCC
+Yes
+CUCULIDAE (cuckoos and relatives)
++Coccyzus americanus occidentalis
+western yellow-billed cuckoo
+(Nesting) G5T2T3 S1 Threatened Endangered BLM:S
+NABCI:RWL
+USFS:S
+USFWS:BCC
+STRIGIDAE (owls)
++Asio flammeus
+short-eared owl
+(Nesting) G5 S3 None None CDFW:SSC
+IUCN:LC
++Asio otus
+long-eared owl
+(Nesting) G5 S3? None None CDFW:SSC
+IUCN:LC
++Athene cunicularia
+burrowing owl
+(Burrow sites & some
+wintering sites)
+G4 S3 None None BLM:S
+CDFW:SSC
+IUCN:LC
+USFWS:BCC
+Yes
++Micrathene whitneyi
+elf owl
+(Nesting) G5 S1 None Endangered BLM:S
+IUCN:LC
+USFWS:BCC
++Psiloscops flammeolus
+flammulated owl
+(Nesting) G4 S2S4 None None IUCN:LC
+NABCI:YWL
+USFWS:BCC
++Strix nebulosa
+great gray owl
+(Nesting) G5 S1 None Endangered CDF:S
+IUCN:LC
+USFS:S
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+STRIGIDAE (owls)
+Strix occidentalis caurina
+northern spotted owl
+G3T3 S2S3 Threatened Threatened CDF:S
+CDFW:SSC
+IUCN:NT
+NABCI:YWL
+Yes
+Strix occidentalis occidentalis
+California spotted owl
+G3G4T2T3 S3 None None BLM:S
+CDFW:SSC
+IUCN:NT
+USFS:S
+USFWS:BCC
+Yes
+APODIDAE (swifts)
+Chaetura vauxi
+Vaux's swift
+(Nesting) G5 S2S3 None None CDFW:SSC
+IUCN:LC
++Cypseloides niger
+black swift
+(Nesting) G4 S2 None None CDFW:SSC
+IUCN:LC
+NABCI:YWL
+USFWS:BCC
+TROCHILIDAE (hummingbirds)
+Calypte costae
+Costa's hummingbird
+(Nesting) G5 S4 None None IUCN:LC
+USFWS:BCC
+Selasphorus rufus
+rufous hummingbird
+(Nesting) G5 S1S2 None None IUCN:LC
+NABCI:YWL
+USFWS:BCC
+PICIDAE (woodpeckers)
++Colaptes chrysoides
+gilded flicker
+G5 S1 None Endangered BLM:S
+IUCN:LC
+NABCI:YWL
+USFWS:BCC
++Melanerpes lewis
+Lewis' woodpecker
+(Nesting) G4 S4 None None IUCN:LC
+NABCI:YWL
+USFWS:BCC
++Melanerpes uropygialis
+Gila woodpecker
+G5 S1 None Endangered BLM:S
+IUCN:LC
+USFWS:BCC
++Picoides arcticus
+black-backed woodpecker
+(Nesting) G5 S2 None None
++Sphyrapicus ruber
+red-breasted sapsucker
+(Nesting) G5 S4 None None
+TYRANNIDAE (tyrant flycatchers)
++Contopus cooperi
+olive-sided flycatcher
+(Nesting) G4 S4 None None CDFW:SSC
+IUCN:NT
+NABCI:YWL
+USFWS:BCC
++Empidonax traillii
+willow flycatcher
+(Nesting) G5 S1S2 None Endangered IUCN:LC
+USFS:S
+USFWS:BCC
+Yes
++Empidonax traillii brewsteri
+little willow flycatcher
+(Nesting) G5T3T4 S1S2 None Endangered USFWS:BCC Yes
++Empidonax traillii extimus
+southwestern willow flycatcher
+(Nesting) G5T2 S1 Endangered Endangered NABCI:RWL Yes
++Myiarchus tyrannulus
+brown-crested flycatcher
+(Nesting) G5 S3 None None CDFW:WL
+IUCN:LC
++Pyrocephalus rubinus
+vermilion flycatcher
+(Nesting) G5 S2S3 None None CDFW:SSC
+IUCN:LC
+LANIIDAE (shrikes)
++Lanius ludovicianus
+loggerhead shrike
+(Nesting) G4 S4 None None CDFW:SSC
+IUCN:LC
+USFWS:BCC
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+LANIIDAE (shrikes)
+Lanius ludovicianus anthonyi
+Island loggerhead shrike
+G4T1 S1 None None CDFW:SSC
+NABCI:RWL
++Lanius ludovicianus mearnsi
+San Clemente loggerhead shrike
+G4T1Q S1 Endangered None CDFW:SSC
+NABCI:RWL
+Yes
+VIREONIDAE (vireos)
++Vireo bellii arizonae
+Arizona bell's vireo
+(Nesting) G5T4 S1S2 None Endangered BLM:S
+IUCN:NT
+USFWS:BCC
+Yes
++Vireo bellii pusillus
+least Bell's vireo
+(Nesting) G5T2 S2 Endangered Endangered IUCN:NT
+NABCI:YWL
+Yes
+Vireo huttoni unitti
+Catalina Hutton's vireo
+G5T2? S2? None None CDFW:SSC
++Vireo vicinior
+gray vireo
+(Nesting) G4 S2 None None BLM:S
+CDFW:SSC
+IUCN:LC
+NABCI:YWL
+USFS:S
+USFWS:BCC
+CORVIDAE (jays, crows, and magpies)
+Aphelocoma californica cana
+Eagle Mountain scrub-jay
+G5T3Q S3Q None None CDFW:WL
+Aphelocoma insularis
+Island scrub-jay
+G1 S1 None None IUCN:NT
+NABCI:RWL
+USFWS:BCC
+Pica nuttalli
+yellow-billed magpie
+(Nesting & communal
+roosts)
+G3G4 S3S4 None None IUCN:LC
+NABCI:YWL
+USFWS:BCC
+ALAUDIDAE (larks)
++Eremophila alpestris actia
+California horned lark
+G5T4Q S4 None None CDFW:WL
+IUCN:LC
+HIRUNDINIDAE (swallows)
++Progne subis
+purple martin
+(Nesting) G5 S3 None None CDFW:SSC
+IUCN:LC
++Riparia riparia
+bank swallow
+(Nesting) G5 S2 None Threatened BLM:S
+IUCN:LC
+PARIDAE (titmice and relatives)
++Baeolophus inornatus
+oak titmouse
+(Nesting) G4 S4 None None IUCN:LC
+NABCI:YWL
+USFWS:BCC
+Poecile atricapillus
+black-capped chickadee
+G5 S3 None None CDFW:WL
+IUCN:LC
+TROGLODYTIDAE (wrens)
++Campylorhynchus brunneicapillus
+sandiegensis
+coastal cactus wren
+(San Diego & Orange
+Counties only)
+G5T3Q S3 None None CDFW:SSC
+USFS:S
+USFWS:BCC
+Yes
+Cistothorus palustris clarkae
+Clark's marsh wren
+G5T2T3 S2S3 None None CDFW:SSC
+Thryomanes bewickii leucophrys
+San Clemente Bewick's wren
+G5TX SX None None CDFW:SSC
+POLIOPTILIDAE (gnatcatchers)
++Polioptila californica californica
+coastal California gnatcatcher
+G4G5T2Q S2 Threatened None CDFW:SSC
+NABCI:YWL
+Yes
++Polioptila melanura
+black-tailed gnatcatcher
+G5 S3S4 None None CDFW:WL
+IUCN:LC
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+MIMIDAE (mockingbirds and thrashers)
++Toxostoma bendirei
+Bendire's thrasher
+G4G5 S3 None None BLM:S
+CDFW:SSC
+IUCN:VU
+NABCI:RWL
+USFWS:BCC
++Toxostoma crissale
+Crissal thrasher
+G5 S3 None None CDFW:SSC
+IUCN:LC
++Toxostoma lecontei
+Le Conte's thrasher
+G4 S3 None None CDFW:SSC
+IUCN:LC
+NABCI:RWL
+USFWS:BCC
+Yes
+PARULIDAE (wood-warblers)
++Geothlypis trichas sinuosa
+saltmarsh common yellowthroat
+G5T3 S3 None None CDFW:SSC
+USFWS:BCC
+Yes
++Icteria virens
+yellow-breasted chat
+(Nesting) G5 S3 None None CDFW:SSC
+IUCN:LC
++Oreothlypis luciae
+Lucy's warbler
+(Nesting) G5 S2S3 None None BLM:S
+CDFW:SSC
+IUCN:LC
+USFWS:BCC
++Oreothlypis virginiae
+Virginia's warbler
+(Nesting) G5 S2 None None CDFW:WL
+IUCN:LC
+NABCI:YWL
+USFWS:BCC
++Setophaga petechia
+yellow warbler
+(Nesting) G5 S3S4 None None CDFW:SSC
+USFWS:BCC
+Yes
++Setophaga petechia sonorana
+Sonoran yellow warbler
+(Nesting) G5T2T3 S2 None None CDFW:SSC
+USFWS:BCC
+Yes
+EMBERIZIDAE (sparrows, buntings, warblers, & relatives)
++Aimophila ruficeps canescens
+southern California rufous-crowned
+sparrow
+G5T3 S3 None None CDFW:WL
+Aimophila ruficeps obscura
+Santa Cruz Island rufous-crowned
+sparrow
+G5T2T3 S2S3 None None CDFW:SSC
++Ammodramus savannarum
+grasshopper sparrow
+(Nesting) G5 S3 None None CDFW:SSC
+IUCN:LC
++Artemisiospiza belli belli
+Bell's sage sparrow
+G5T2T3 S3 None None CDFW:WL
+USFWS:BCC
+Yes
++Artemisiospiza belli clementeae
+San Clemente sage sparrow
+G5T1Q S1 Threatened None CDFW:SSC
+NABCI:YWL
+USFWS:BCC
+Yes
++Junco hyemalis caniceps
+gray-headed junco
+(Nesting) G5T5 S1 None None CDFW:WL
++Melospiza melodia
+song sparrow ("Modesto"
+population)
+G5 S3? None None CDFW:SSC
++Melospiza melodia graminea
+Channel Island song sparrow
+G5T1 S1 None None CDFW:SSC
+USFWS:BCC
+Yes
++Melospiza melodia maxillaris
+Suisun song sparrow
+G5T3 S3 None None CDFW:SSC
+USFWS:BCC
++Melospiza melodia pusillula
+Alameda song sparrow
+G5T2? S2S3 None None CDFW:SSC
+USFWS:BCC
++Melospiza melodia samuelis
+San Pablo song sparrow
+G5T2 S2 None None CDFW:SSC
+USFWS:BCC
+Melozone aberti
+Abert's towhee
+G3G4 S3 None None IUCN:LC
++Melozone crissalis eremophilus
+Inyo California towhee
+G4G5T2 S2 Threatened Endangered NABCI:RWL Yes
+Special Animals List - August 2018
+Birds
+Species Comment Rank ESA CESA Other Status Notes
+EMBERIZIDAE (sparrows, buntings, warblers, & relatives)
+Passerculus sandwichensis alaudinus
+Bryant's savannah sparrow
+G5T2T3 S2S3 None None CDFW:SSC
++Passerculus sandwichensis beldingi
+Belding's savannah sparrow
+G5T3 S3 None Endangered
+Passerculus sandwichensis rostratus
+large-billed savannah sparrow
+(Wintering) G5T2T3Q S2 None None CDFW:SSC
+Pipilo maculatus clementae
+San Clemente spotted towhee
+G5T1 S1S2 None None CDFW:SSC
+USFWS:BCC
+Pooecetes gramineus affinis
+Oregon vesper sparrow
+(Wintering) G5T3? S3? None None CDFW:SSC
+NABCI:RWL
+USFWS:BCC
++Spizella breweri
+Brewer's sparrow
+(Nesting) G5 S4 None None IUCN:LC
+USFWS:BCC
+CARDINALIDAE (cardinals)
++Cardinalis cardinalis
+northern cardinal
+G5 S1 None None CDFW:WL
+IUCN:LC
++Piranga flava
+hepatic tanager
+(Nesting) G5 S1 None None CDFW:WL
+IUCN:LC
++Piranga rubra
+summer tanager
+(Nesting) G5 S1 None None CDFW:SSC
+IUCN:LC
+ICTERIDAE (blackbirds)
+Agelaius phoeniceus aciculatus
+Kern red-winged blackbird
+G5T1T2 S1S2 None None CDFW:SSC
++Agelaius tricolor
+tricolored blackbird
+(Nesting colony) G2G3 S1S2 None Candidate
+Endangered
+BLM:S
+CDFW:SSC
+IUCN:EN
+NABCI:RWL
+USFWS:BCC
+Yes
++Xanthocephalus xanthocephalus
+yellow-headed blackbird
+(Nesting) G5 S3 None None CDFW:SSC
+IUCN:LC
+FRINGILLIDAE (finches and relatives)
++Spinus lawrencei
+Lawrence's goldfinch
+(Nesting) G3G4 S3S4 None None IUCN:LC
+NABCI:YWL
+USFWS:BCC
+Special Animals List - August 2018
+Mammals
+Species Comment Rank ESA CESA Other Status Notes
+TALPIDAE (moles)
++Scapanus latimanus insularis
+Angel Island mole
+G5THQ SH None None
++Scapanus latimanus parvus
+Alameda Island mole
+G5THQ SH None None CDFW:SSC
+SORICIDAE (shrews)
++Sorex lyelli
+Mount Lyell shrew
+G3G4 S3S4 None None CDFW:SSC
+IUCN:LC
++Sorex ornatus relictus
+Buena Vista Lake ornate shrew
+G5T1 S1 Endangered None CDFW:SSC
+Sorex ornatus salarius
+Monterey shrew
+G5T1T2 S1S2 None None CDFW:SSC
++Sorex ornatus salicornicus
+southern California saltmarsh shrew
+G5T1? S1 None None CDFW:SSC
++Sorex ornatus sinuosus
+Suisun shrew
+G5T1T2Q S1S2 None None CDFW:SSC
++Sorex ornatus willetti
+Santa Catalina shrew
+G5T1 S1 None None CDFW:SSC
++Sorex vagrans halicoetes
+salt-marsh wandering shrew
+G5T1 S1 None None CDFW:SSC
+Sorex vagrans paludivagus
+Monterey vagrant shrew
+G5T1 S1 None None
+PHYLLOSTOMIDAE (leaf-nosed bats)
++Choeronycteris mexicana
+Mexican long-tongued bat
+G4 S1 None None CDFW:SSC
+IUCN:NT
+WBWG:H
++Leptonycteris yerbabuenae
+lesser long-nosed bat
+G4 S1 Delisted None IUCN:VU
+WBWG:H
+Yes
++Macrotus californicus
+California leaf-nosed bat
+G4 S3 None None BLM:S
+CDFW:SSC
+IUCN:LC
+WBWG:H
+VESPERTILIONIDAE (evening bats)
++Antrozous pallidus
+pallid bat
+G5 S3 None None BLM:S
+CDFW:SSC
+IUCN:LC
+USFS:S
+WBWG:H
++Corynorhinus townsendii
+Townsend's big-eared bat
+G3G4 S2 None None BLM:S
+CDFW:SSC
+IUCN:LC
+USFS:S
+WBWG:H
++Euderma maculatum
+spotted bat
+G4 S3 None None BLM:S
+CDFW:SSC
+IUCN:LC
+WBWG:H
++Lasionycteris noctivagans
+silver-haired bat
+G5 S3S4 None None IUCN:LC
+WBWG:M
++Lasiurus blossevillii
+western red bat
+G5 S3 None None CDFW:SSC
+IUCN:LC
+WBWG:H
+Yes
++Lasiurus cinereus
+hoary bat
+G5 S4 None None IUCN:LC
+WBWG:M
++Lasiurus xanthinus
+western yellow bat
+G5 S3 None None CDFW:SSC
+IUCN:LC
+WBWG:H
+Yes
+Special Animals List - August 2018
+Mammals
+Species Comment Rank ESA CESA Other Status Notes
+VESPERTILIONIDAE (evening bats)
++Myotis ciliolabrum
+western small-footed myotis
+G5 S3 None None BLM:S
+IUCN:LC
+WBWG:M
++Myotis evotis
+long-eared myotis
+G5 S3 None None BLM:S
+IUCN:LC
+WBWG:M
+Myotis lucifugus
+little brown bat
+(San Bernardino
+Mountains population)
+G3 S2S3 None None IUCN:LC
+WBWG:M
++Myotis occultus
+Arizona Myotis
+G4 S1 None None CDFW:SSC
+IUCN:LC
+WBWG:M
++Myotis thysanodes
+fringed myotis
+G4 S3 None None BLM:S
+IUCN:LC
+USFS:S
+WBWG:H
++Myotis velifer
+cave myotis
+G5 S1 None None BLM:S
+CDFW:SSC
+IUCN:LC
+WBWG:M
++Myotis volans
+long-legged myotis
+G5 S3 None None IUCN:LC
+WBWG:H
++Myotis yumanensis
+Yuma myotis
+G5 S4 None None BLM:S
+IUCN:LC
+WBWG:LM
+MOLOSSIDAE (free-tailed bats)
++Eumops perotis californicus
+western mastiff bat
+G5T4 S3S4 None None BLM:S
+CDFW:SSC
+WBWG:H
++Nyctinomops femorosaccus
+pocketed free-tailed bat
+G4 S3 None None CDFW:SSC
+IUCN:LC
+WBWG:M
++Nyctinomops macrotis
+big free-tailed bat
+G5 S3 None None CDFW:SSC
+IUCN:LC
+WBWG:MH
+OCHOTONIDAE (pikas)
++Ochotona princeps schisticeps
+gray-headed pika
+G5T2T4 S2S4 None None IUCN:NT Yes
+LEPORIDAE (rabbits and hares)
++Brachylagus idahoensis
+pygmy rabbit
+G4 S3 None None BLM:S
+CDFW:SSC
+IUCN:LC
+USFS:S
++Lepus americanus klamathensis
+Oregon snowshoe hare
+G5T3T4Q S2 None None CDFW:SSC
++Lepus americanus tahoensis
+Sierra Nevada snowshoe hare
+G5T3T4Q S2 None None CDFW:SSC
++Lepus californicus bennettii
+San Diego black-tailed jackrabbit
+G5T3T4 S3S4 None None CDFW:SSC
++Lepus townsendii townsendii
+western white-tailed jackrabbit
+G5T5 S3? None None CDFW:SSC
++Sylvilagus bachmani riparius
+riparian brush rabbit
+G5T1 S1 Endangered Endangered
+ERETHIZONTIDAE (New World porcupines)
++Erethizon dorsatum
+North American porcupine
+G5 S3 None None IUCN:LC
+APLODONTIDAE (mountain beavers)
++Aplodontia rufa californica
+Sierra Nevada mountain beaver
+G5T3T4 S2S3 None None CDFW:SSC
+IUCN:LC
+Yes
+Special Animals List - August 2018
+Mammals
+Species Comment Rank ESA CESA Other Status Notes
+APLODONTIDAE (mountain beavers)
++Aplodontia rufa humboldtiana
+Humboldt mountain beaver
+G5TNR SNR None None
++Aplodontia rufa nigra
+Point Arena mountain beaver
+G5T1 S1 Endangered None CDFW:SSC
+IUCN:LC
+Yes
++Aplodontia rufa phaea
+Point Reyes mountain beaver
+G5T2 S2 None None CDFW:SSC
+IUCN:LC
+Yes
+SCIURIDAE (squirrels and relatives)
++Ammospermophilus nelsoni
+Nelson's antelope squirrel
+G2 S2S3 None Threatened BLM:S
+IUCN:EN
+Callospermophilus lateralis bernardinus
+San Bernardino golden-mantled
+ground squirrel
+G5T1 S1 None None
++Glaucomys oregonensis californicus
+San Bernardino flying squirrel
+G5T1T2 S1S2 None None CDFW:SSC
+USFS:S
+Neotamias alpinus
+Alpine chipmunk
+G3 S3 None None IUCN:LC
++Neotamias panamintinus acrus
+Kingston Mountain chipmunk
+G4T1T2 S1S2 None None
++Neotamias speciosus callipeplus
+Mount Pinos chipmunk
+G4T1T2 S2 None None USFS:S
++Neotamias speciosus speciosus
+lodgepole chipmunk
+G4T2T3 S2S3 None None
+Urocitellus mollis
+Piute ground squirrel
+G5 S3 None None IUCN:LC
++Xerospermophilus mohavensis
+Mohave ground squirrel
+G2G3 S2S3 None Threatened BLM:S
+IUCN:VU
++Xerospermophilus tereticaudus
+chlorus
+Palm Springs round-tailed ground
+squirrel
+G5T2Q S2 None None BLM:S
+CDFW:SSC
+GEOMYIDAE (pocket gophers)
+Thomomys bottae operarius
+Owens Lake pocket gopher
+G5T1? S1? None None
+HETEROMYIDAE (kangaroo rats, pocket mice, & kangaroo mice)
++Chaetodipus californicus femoralis
+Dulzura pocket mouse
+G5T3 S3 None None CDFW:SSC
++Chaetodipus fallax fallax
+northwestern San Diego pocket
+mouse
+G5T3T4 S3S4 None None CDFW:SSC Yes
++Chaetodipus fallax pallidus
+pallid San Diego pocket mouse
+G5T34 S3S4 None None CDFW:SSC Yes
++Dipodomys californicus eximius
+Marysville California kangaroo rat
+G4T1 S1 None None CDFW:SSC
+Dipodomys heermanni arenae
+Lompoc kangaroo rat
+G3G4T1T2 S1S2 None None
++Dipodomys heermanni berkeleyensis
+Berkeley kangaroo rat
+G3G4T1 S1 None None
++Dipodomys heermanni dixoni
+Merced kangaroo rat
+G3G4T2T3 S2S3 None None
+Dipodomys heermanni goldmani
+Salinas kangaroo rat
+G3G4T2T3 S2S3 None None
+Dipodomys heermanni heermanni
+Heermann's kangaroo rat
+G3G4T2 G3G4T2 None None
++Dipodomys heermanni morroensis
+Morro Bay kangaroo rat
+G3G4TH SH Endangered Endangered CDFW:FP
++Dipodomys ingens
+giant kangaroo rat
+G1G2 S1S2 Endangered Endangered IUCN:EN
++Dipodomys merriami collinus
+Earthquake Merriam's kangaroo rat
+G5T2? S1S2 None None
+Special Animals List - August 2018
+Mammals
+Species Comment Rank ESA CESA Other Status Notes
+HETEROMYIDAE (kangaroo rats, pocket mice, & kangaroo mice)
++Dipodomys merriami parvus
+San Bernardino kangaroo rat
+G5T1 S1 Endangered None CDFW:SSC
+Dipodomys merriami trinidadensis
+Valle de la Trinidad kangaroo rat
+G5T2T3Q S2 None None
++Dipodomys nitratoides brevinasus
+short-nosed kangaroo rat
+G3T1T2 S1S2 None None BLM:S
+CDFW:SSC
+IUCN:VU
++Dipodomys nitratoides exilis
+Fresno kangaroo rat
+G3TH SH Endangered Endangered IUCN:VU
++Dipodomys nitratoides nitratoides
+Tipton kangaroo rat
+G3T1T2 S1S2 Endangered Endangered IUCN:VU
++Dipodomys panamintinus argusensis
+Argus Mountains kangaroo rat
+G5T1T3 S1S3 None None
++Dipodomys panamintinus
+panamintinus
+Panamint kangaroo rat
+G5T3 S3 None None
+Dipodomys simulans
+Dulzura kangaroo rat
+G4 S3 None None IUCN:LC
++Dipodomys stephensi
+Stephens' kangaroo rat
+G2 S2 Endangered Threatened IUCN:EN
++Dipodomys venustus elephantinus
+big-eared kangaroo rat
+G4T2 S2 None None CDFW:SSC
++Dipodomys venustus venustus
+Santa Cruz kangaroo rat
+G4T1 S1 None None
++Perognathus alticolus alticolus
+white-eared pocket mouse
+G1G2TH SH None None BLM:S
+CDFW:SSC
+IUCN:EN
+USFS:S
+Yes
++Perognathus alticolus inexpectatus
+Tehachapi pocket mouse
+G1G2T1T2 S1S2 None None CDFW:SSC
+IUCN:EN
+USFS:S
+Yes
++Perognathus inornatus
+San Joaquin Pocket Mouse
+G2G3 S2S3 None None BLM:S
+IUCN:LC
+Yes
++Perognathus inornatus psammophilus
+Salinas pocket mouse
+G4T2? S1 None None CDFW:SSC
++Perognathus longimembris bangsi
+Palm Springs pocket mouse
+G5T2 S2 None None BLM:S
+CDFW:SSC
++Perognathus longimembris brevinasus
+Los Angeles pocket mouse
+G5T1T2 S1S2 None None CDFW:SSC
++Perognathus longimembris
+internationalis
+Jacumba pocket mouse
+G5T2T3 S2 None None CDFW:SSC
++Perognathus longimembris pacificus
+Pacific pocket mouse
+G5T1 S1 Endangered None CDFW:SSC
+Perognathus longimembris salinensis
+Saline Valley pocket mouse
+G5T1 S1 None None
+Perognathus longimembris tularensis
+Tulare pocket mouse
+G5T1 S1 None None
++Perognathus parvus xanthonotus
+yellow-eared pocket mouse
+G5T2T3 S1S2 None None BLM:S
+MURIDAE (mice, rats, and voles)
++Arborimus albipes
+white-footed vole
+G3G4 S2 None None CDFW:SSC
+IUCN:LC
++Arborimus pomo
+Sonoma tree vole
+G3 S3 None None CDFW:SSC
+IUCN:NT
+Microtus californicus halophilus
+Monterey vole
+G5T1 S1 None None
++Microtus californicus mohavensis
+Mohave river vole
+G5T1 S1 None None CDFW:SSC
+Special Animals List - August 2018
+Mammals
+Species Comment Rank ESA CESA Other Status Notes
+MURIDAE (mice, rats, and voles)
++Microtus californicus sanpabloensis
+San Pablo vole
+G5T1T2 S1S2 None None CDFW:SSC
++Microtus californicus scirpensis
+Amargosa vole
+G5T1 S1 Endangered Endangered
++Microtus californicus stephensi
+south coast marsh vole
+G5T1T2 S1S2 None None CDFW:SSC
++Microtus californicus vallicola
+Owens Valley vole
+G5T3 S3 None None BLM:S
+CDFW:SSC
++Neotoma albigula venusta
+Colorado Valley woodrat
+G5T3T4 S1S2 None None
++Neotoma fuscipes annectens
+San Francisco dusky-footed woodrat
+G5T2T3 S2S3 None None CDFW:SSC
++Neotoma fuscipes riparia
+riparian (=San Joaquin Valley)
+woodrat
+G5T1Q S1 Endangered None CDFW:SSC Yes
++Neotoma lepida intermedia
+San Diego desert woodrat
+G5T3T4 S3S4 None None CDFW:SSC
++Neotoma macrotis luciana
+Monterey dusky-footed woodrat
+G5T3 S3 None None CDFW:SSC
+IUCN:DD
++Onychomys torridus ramona
+southern grasshopper mouse
+G5T3 S3 None None CDFW:SSC
++Onychomys torridus tularensis
+Tulare grasshopper mouse
+G5T1T2 S1S2 None None BLM:S
+CDFW:SSC
++Peromyscus maniculatus anacapae
+Anacapa Island deer mouse
+G5T1T2 S1S2 None None CDFW:SSC
+Peromyscus maniculatus clementis
+San Clemente deer mouse
+G5T1T2 S1S2 None None CDFW:SSC
++Reithrodontomys megalotis distichlis
+Salinas harvest mouse
+G5T1 S1 None None
++Reithrodontomys megalotis
+santacruzae
+Santa Cruz harvest mouse
+G5T1Q S1 None None Yes
++Reithrodontomys raviventris
+salt-marsh harvest mouse
+G1G2 S1S2 Endangered Endangered CDFW:FP
+IUCN:EN
++Sigmodon arizonae plenus
+Colorado River cotton rat
+G5T2T3 S1S2 None None CDFW:SSC
++Sigmodon hispidus eremicus
+Yuma hispid cotton rat
+G5T2T3 S2 None None CDFW:SSC
+DIPODIDAE (jumping mice)
++Zapus trinotatus orarius
+Point Reyes jumping mouse
+G5T1T3Q S1S3 None None CDFW:SSC
+CANIDAE (foxes, wolves, and coyotes)
++Canis lupus
+gray wolf
+G4 S1 Endangered Endangered IUCN:LC
+Urocyon littoralis
+island fox
+(Mapped by subspecies) G1 S1 None Threatened IUCN:CR Yes
++Urocyon littoralis catalinae
+Santa Catalina Island fox
+G1T1 S1 Threatened Threatened IUCN:CR Yes
++Urocyon littoralis clementae
+San Clemente Island fox
+G1T1 S1 None Threatened IUCN:CR Yes
++Urocyon littoralis dickeyi
+San Nicolas Island fox
+G1T1 S1 None Threatened IUCN:CR Yes
++Urocyon littoralis littoralis
+San Miguel Island fox
+G1T1 S1 Delisted Threatened IUCN:CR Yes
++Urocyon littoralis santacruzae
+Santa Cruz Island fox
+G1T1 S1 Delisted Threatened IUCN:CR Yes
++Urocyon littoralis santarosae
+Santa Rosa Island fox
+G1T1 S1 Delisted Threatened IUCN:CR Yes
+Special Animals List - August 2018
+Mammals
+Species Comment Rank ESA CESA Other Status Notes
+CANIDAE (foxes, wolves, and coyotes)
++Vulpes macrotis mutica
+San Joaquin kit fox
+G4T2 S2 Endangered Threatened
++Vulpes vulpes necator
+Sierra Nevada red fox
+G5T1T2 S1 Candidate Threatened USFS:S
+Vulpes vulpes patwin
+Sacramento Valley red fox
+G5T2 S2 None None
+MUSTELIDAE (weasels and relatives)
++Enhydra lutris nereis
+southern sea otter
+G4T2 S2 Threatened None CDFW:FP
+IUCN:EN
+MMC:SSC
+Yes
++Gulo gulo
+California wolverine
+G4 S1 Proposed
+Threatened
+Threatened CDFW:FP
+IUCN:NT
+USFS:S
++Lontra canadensis sonora
+southwestern river otter
+G5T1 S1 None None CDFW:SSC Yes
++Martes caurina
+Pacific marten
+G5 S3 None None IUCN:LC
+USFS:S
++Martes caurina humboldtensis
+Humboldt marten
+G5T1 S1 None Candidate
+Endangered
+CDFW:SSC
+USFS:S
++Martes caurina sierrae
+Sierra marten
+G5T3 S3 None None USFS:S
+Mustela frenata inyoensis
+Inyo long-tailed weasel
+G5T2Q S2 None None
+Mustela frenata xanthogenys
+San Joaquin long-tailed weasel
+G5T2T3 S2S3 None None
++Pekania pennanti
+fisher - West Coast DPS
+G5T2T3Q S2S3 None Threatened BLM:S
+CDFW:SSC
+USFS:S
+Yes
++Taxidea taxus
+American badger
+G5 S3 None None CDFW:SSC
+IUCN:LC
+MEPHITIDAE (skunks)
++Spilogale gracilis amphiala
+Channel Islands spotted skunk
+G5T3 S3 None None CDFW:SSC
+FELIDAE (cats and relatives)
+Lynx rufus pallescens
+pallid bobcat
+G5T3? S3? None None
++Puma concolor browni
+Yuma mountain lion
+G5T1T2Q S1 None None CDFW:SSC
+OTARIIDAE (sea lions and fur seals)
++Arctocephalus townsendi
+Guadalupe fur-seal
+G1 S1 Threatened Threatened CDFW:FP
+IUCN:NT
++Callorhinus ursinus
+northern fur-seal
+G3 S1 None None IUCN:VU
++Eumetopias jubatus
+Steller (=northern) sea-lion
+G3 S2 Delisted None IUCN:EN
+MMC:SSC
+BOVIDAE (sheep and relatives)
++Ovis canadensis nelsoni
+desert bighorn sheep
+G4T4 S3 None None BLM:S
+CDFW:FP
+USFS:S
+Yes
++Ovis canadensis nelsoni pop. 2
+Peninsular bighorn sheep DPS
+G4T3Q S1 Endangered Threatened CDFW:FP Yes
++Ovis canadensis sierrae
+Sierra Nevada bighorn sheep
+G4T2 S2 Endangered Endangered CDFW:FP
